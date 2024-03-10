@@ -1,0 +1,37 @@
+{
+    "Products": [
+        {
+            "ProductName": "Product A",
+            "ProductBarcode": "123456789",
+            "Id": 1,
+            "Description": "Description for Product A",
+            "Price": 19.99,
+            "URLimage": [
+                "https://example.com/productA_image1.jpg",
+                "https://example.com/productA_image2.jpg"
+            ]
+        },
+        {
+            "ProductName": "Product B",
+            "ProductBarcode": "987654321",
+            "Id": 2,
+            "Description": "Description for Product B",
+            "Price": 29.99,
+            "URLimage": [
+                "https://example.com/productB_image1.jpg",
+                "https://example.com/productB_image2.jpg"
+            ]
+        },
+        {
+            "ProductName": "Product C",
+            "ProductBarcode": "567890123",
+            "Id": 3,
+            "Description": "Description for Product C",
+            "Price": 39.99,
+            "URLimage": [
+                "https://example.com/productC_image1.jpg",
+                "https://example.com/productC_image2.jpg"
+            ]
+        }
+    ]
+}
