@@ -15,7 +15,7 @@
         },
         {
             "ProductName": "Product B",
-            "ProductBarcode": "987654321",
+            "ProductBarcode": "EAN_13: 6937926731739",
             "Id": 2,
             "Description": "Description for Product B",
             "Price": 29.99,
