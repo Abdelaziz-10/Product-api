@@ -1,5 +1,41 @@
-{
+[
+  {
     "Products": [
-    
-    ]
-}
+      {
+        "ProductName": "ORMEDIC sheer pink lip enhancement complex",
+        "ProductBarcode": "UPC_A: 037466015859",
+        "Id": 1,
+        "Description": "This cult-favorite lip treatment moisturizes, softens and helps to plump the lips’ appearance. With the nourishment of avocado oil and vitamin E, the replenishing formula delivers a surge of moisture to instantly soothe and comfort dry lips. A polypeptide complex with palmitoyl tripeptide-5 helps to support the look of fuller lips. Features a light, sheer pink tint.\r\n\r\nThis formula has been modernized to meet our clean clinical skincare™ standard and formulated without parabens, phthalates, mineral oils, artificial fragrances, synthetic dyes or animal testing.\r\n\r\nIMAGE Skincare is committed to fostering a sustainable future. All materials used to create every product box is Forest Stewardship Council® certified and sourced from responsibly managed forests.",
+        "Price": 19.99,
+        "URLimage": [
+          "https://imageskincare.com/cdn/shop/products/ORMEDIC-pink-sheer-lip-complex-03.jpg?v=1679334670&width=1200",
+          "https://imageskincare.com/cdn/shop/products/ORMEDIC_CARE_FOR_SKIN_sheer_pink_lip_enhancement_complex_PDP_R01a.jpg?v=1679334670&width=1800",
+          "https://imageskincare.com/cdn/shop/products/ORMEDIC-pink-sheer-lip-complex-06.jpg?v=1679334659&width=1000"
+        ]
+      },
+      {
+        "ProductName": "Product B",
+        "ProductBarcode": "EAN_13: 6937926731739",
+        "Id": 2,
+        "Description": "Description for Product B",
+        "Price": 29.99,
+        "URLimage": [
+          "https://example.com/productB_image1.jpg",
+          "https://example.com/productB_image2.jpg"
+        ]
+      },
+      {
+        "ProductName": "Product C",
+        "ProductBarcode": "567890123",
+        "Id": 3,
+        "Description": "Description for Product C",
+        "Price": 39.99,
+        "URLimage": [
+          "https://example.com/productC_image1.jpg",
+          "https://example.com/productC_image2.jpg"
+        ]
+      }
+    ],
+    "id": 1
+  }
+]
