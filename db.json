@@ -37,5 +37,29 @@
       }
     ],
     "id": 1
+  },
+  {
+    "ProductName": "Product D",
+    "ProductBarcode": "123456789",
+    "Id": 4,
+    "Description": "Description for Product D",
+    "Price": 49.99,
+    "URLimage": [
+      "https://example.com/productD_image1.jpg",
+      "https://example.com/productD_image2.jpg"
+    ],
+    "id": 2
+  },
+  {
+    "ProductName": "Product E",
+    "ProductBarcode": "5050",
+    "Id": 4,
+    "Description": "Description for Product D",
+    "Price": 49.99,
+    "URLimage": [
+      "https://example.com/productD_image1.jpg",
+      "https://example.com/productD_image2.jpg"
+    ],
+    "id": 3
   }
 ]
