@@ -60,6 +60,34 @@
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUARCDbuAWOPFFv5CSew9RQ8l-9r8tkD_OXlAD8Z--A&s"
     ],
     "id": 5
+    },
+    {
+    "ProductName": "Aïn Atlas",
+    "ProductBarcode": "EAN_13: 6111035001659",
+    "Id": 0,
+    "Description": "5L\n\r\n Aïn Atlas promeut des valeurs fortes, et encourage à puiser dans sa force intérieure. Elle est l’eau idéale de tous ceux qui recherchent le dépassement de soi.Puisant ses qualités au cœur des montagnes du Moyen Atlas, Aïn Atlas est une eau minérale naturelle riche en minéraux et en oligoéléments. Sa force et sa naturalité en font votre partenaire hydratation de choix tout au long de la journée pour préserver la force qui est en vous.",
+    "Price": 13,
+    "URLimage": ["https://leseauxmineralesdoulmes-store.ma/1267-large_default/ain-atlas-pack-2x5l.jpg"],
+    "id": 6
+    },
+    {
+    "ProductName": "sidi ali",
+    "ProductBarcode": "EAN_13: 6111035000430",
+    "Id": 0,
+    "Description": "Sidi Ali s’est adaptée à tous les consommateurs avec une large gamme de contenants innovants.\n\r\n\rLe bouchon sport a lancé la mode de la bouteille nomade qu’on emporte partout avec soi.\n\rSon élégante bouteille en verre élancée est présente sur toutes les tables de restauration haut de gamme.",
+    "Price": 3,
+    "URLimage": ["https://cima.ma/wp-content/uploads/2023/10/c91kjr0xwm9ss1fybrp4-scaled-1.jpg"],
+    "id": 7
+    },
+    {
+    "ProductName": "PARANTAL",
+    "ProductBarcode": "EAN_13: 6118000031833",
+    "Id": 0,
+    "Description": "paracetamol 500 mg douleurs & fievre\n\r\nLe paracétamol dosé à 500 mg est indiqué dans le traitement des douleurs d'intensité faible à modérée (maux de tête, maux de dents, douleurs articulaires et ligamentaires, douleurs dorsales, douleurs pendant la menstruation, douleurs après blessures, douleurs lors de refroidissements) et dans le traitement symptomatique de la fièvre.",
+    "Price": 10,
+    "URLimage": ["https://imagecdn.med.ovh/unsafe/400x225/filters:format():quality(100):blur(0)/https://www.med.tn/uploads/magazine/1621.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaUpQefYwbjrvZF665WnLQBFhvfhny4tiaPX0MfCT_3w&s"],
+    "id": 8
     }
   ]
 }
