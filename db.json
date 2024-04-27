@@ -88,6 +88,20 @@
     "URLimage": ["https://imagecdn.med.ovh/unsafe/400x225/filters:format():quality(100):blur(0)/https://www.med.tn/uploads/magazine/1621.jpg",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaUpQefYwbjrvZF665WnLQBFhvfhny4tiaPX0MfCT_3w&s"],
     "id": 8
-    }
+    },
+    "ProductName": "Ain Ifrane",
+    "ProductBarcode": "EAN_13: 6111251420135",
+    "Id": 0,
+    "Description": "Ain Ifrane, une eau minérale naturelle naît dans les montagnes de la région d’Ifrane, loin de toute pollution et de toute activité industrielle.",
+    "Price": 3,
+    "URLimage": [
+      "https://www.boissons-maroc.com/wp-content/uploads/2017/03/img-slider-produits.png",
+      "https://www.boissons-maroc.com/wp-content/uploads/2017/04/AF13.jpg",
+      "https://www.boissons-maroc.com/wp-content/uploads/2017/04/AF12.jpg",
+      "https://www.boissons-maroc.com/wp-content/uploads/2017/04/AF11.jpg",
+      "https://www.boissons-maroc.com/wp-content/uploads/2017/04/Af14.jpg"
+    ],
+    "id": 9
+  }
   ]
 }
