@@ -103,6 +103,42 @@
       "https://www.boissons-maroc.com/wp-content/uploads/2017/04/Af14.jpg"
     ],
     "id": 9
+  },
+    {
+    "ProductName": "عين سايس ",
+    "ProductBarcode": "EAN_13: 6111128000460",
+    "Id": 0,
+    "Description": "ماء معدني ٥ لتر",
+    "Price": 13,
+    "URLimage": [],
+    "id": 10
+  },
+  {
+    "ProductName": "Doliprane",
+    "ProductBarcode": "EAN_13: 6118000040972",
+    "Id": 0,
+    "Description": "1000 mg",
+    "Price": 13,
+    "URLimage": [],
+    "id": 11
+  },
+  {
+    "ProductName": "Aflamic",
+    "ProductBarcode": "EAN_13: 6118000410492",
+    "Id": 0,
+    "Description": "7,5 mg",
+    "Price": 46,
+    "URLimage": [],
+    "id": 12
+  },
+  {
+    "ProductName": "Rotana",
+    "ProductBarcode": "EAN_13: 6111260420164",
+    "Id": 0,
+    "Description": "600  soft tissues paper ",
+    "Price": 10,
+    "URLimage": [],
+    "id": 13
   }
   ]
 }
