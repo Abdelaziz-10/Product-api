@@ -108,9 +108,9 @@
     "ProductName": "عين سايس ",
     "ProductBarcode": "EAN_13: 6111128000460",
     "Id": 0,
-    "Description": "ماء معدني ٥ لتر",
+    "Description": "EAU MINERALE NATURELLE 5L AIN SAISS",
     "Price": 13,
-    "URLimage": [],
+    "URLimage": ["https://www.mymarket.ma/cdn/shop/products/677327_1.jpg?v=1654260711"],
     "id": 10
   },
   {
@@ -119,16 +119,26 @@
     "Id": 0,
     "Description": "1000 mg",
     "Price": 13,
-    "URLimage": [],
+    "URLimage": [
+      "https://www.pharma-gdd.com/media/cache/resolve/product_show_thumbnail/333430303934313633313234352d646f6c697072616e65746162732d313030306d672d626f6974652d64652d382d636f6d7072696d657307996077.jpg",
+      "https://www.pharma-gdd.com/media/cache/resolve/product_show_thumbnail/646f6c697072616e652d746162732d313030306d672d382d636f6d7072696d65732d646f73e5760bbd.jpg"
+    ],
     "id": 11
   },
   {
     "ProductName": "Aflamic",
     "ProductBarcode": "EAN_13: 6118000410492",
     "Id": 0,
-    "Description": "7,5 mg",
+    "Description": "7,5 mg\r\n\r\n Le méloxicam est utilisé pour réduire l'inflammation et la douleur dans les articulations et les muscles.Il est indiqué chez l'adulte et l'enfant âgé de 16 ans et plus.
+      MELOXICAM est utilisé dans les cas suivants :
+      - traitement de courte durée des douleurs aiguës d'arthrose ;
+      - traitement de longue durée : de la polyarthrite rhumatoïde et de la spondylarthrite ankylosante.
+      ",
     "Price": 46,
-    "URLimage": [],
+    "URLimage": [
+      "https://asafar.net/wp-content/uploads/9239_500_10.jpg.webp",
+      "https://asafar.net/wp-content/uploads/9236_500_10.jpg.webp"
+    ],
     "id": 12
   },
   {
@@ -137,7 +147,7 @@
     "Id": 0,
     "Description": "600  soft tissues paper ",
     "Price": 10,
-    "URLimage": [],
+    "URLimage": ["https://mini-gros.com/838-large_default/mouchoirs-blancs-600feuilles-bily-master.jpg"],
     "id": 13
   }
   ]
