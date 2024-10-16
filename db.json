@@ -151,7 +151,7 @@
     "ProductName": "عين اطلس ",
     "ProductBarcode": "EAN_13: 6111035001673",
     "Id": 0,
-    "Description": "0,5",
+    "Description": "0.5 L",
     "Price": 3,
     "URLimage": [],
     "id": 14
@@ -161,7 +161,7 @@
     "ProductBarcode": "EAN_8: 90382383",
     "Id": 0,
     "Description": "CAPPY PULPY ORANGE 25CL",
-    "Price": 4,50,
+    "Price": 4.50,
     "URLimage": ["https://www.aswakassalam.com/wp-content/uploads/2024/10/1284031_1-600x600.jpg"],
     "id": 15
   },
@@ -170,7 +170,7 @@
     "ProductBarcode": "EAN_13: 6111126003852",
     "Id": 0,
     "Description": "Yaourt à boire - daya - 170g",
-    "Price": 3,50,
+    "Price": 3.50,
     "URLimage": ["https://images.openfoodfacts.org/images/products/611/112/600/4231/front_fr.13.full.jpg"],
     "id": 16
   },
@@ -206,6 +206,15 @@
       "https://www.henrys.ma/wp-content/uploads/2023/02/1.-Cigare-cacao-24-cigares.png",
     "https://e-xportmorocco.com/storage/produits/1680280061.png"],
     "id": 19
+  },
+   {
+    "ProductName": "Albane lait",
+    "ProductBarcode": "EAN_13: 6111250012416",
+    "Id": 0,
+    "Description": "la bone lait 0,5L\nMarque: Albane\nLait Demi crm Pasteuris Carton Albane.\n485g.\nUn lait demi-crm pasteuris pour accompagner vos repas quotidiens.\nNuméro du produit: 688660",
+    "Price": 4,
+    "URLimage": ["https://storage.googleapis.com/sales-img-ma-live/web/cache/sylius_large/6f/99/c2d996d79d2cc27a418f24b644bf.jpg"],
+    "id": 20
   }
   ]
 }
