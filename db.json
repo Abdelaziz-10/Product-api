@@ -201,20 +201,11 @@
     "Id": 0,
     "Description": "24 pieces  ",
     "Price": 13.95,
-    "URLimage": ["https://e-xportmorocco.com/storage/produits/1680280061.png","https://cima.ma/wp-content/uploads/2023/10/l4itkpqr5oqvq39dncym-scaled-1.jpg",
+    "URLimage": ["https://e-xportmorocco.com/storage/produits/1680280061.png",
+      "https://cima.ma/wp-content/uploads/2023/10/l4itkpqr5oqvq39dncym-scaled-1.jpg",
       "https://www.henrys.ma/wp-content/uploads/2023/02/1.-Cigare-cacao-24-cigares.png",
     "https://e-xportmorocco.com/storage/produits/1680280061.png"],
     "id": 19
-  },
-  {
-    "ProductName": "Albane lait",
-    "ProductBarcode": "EAN_13: 6111250012416",
-    "Id": 0,
-    "Description": "la bone lait 0,5L\nMarque: Albane\nLait Demi crm Pasteuris Carton Albane.\n485g.\nUn lait demi-crm pasteuris pour accompagner vos repas quotidiens.\nNuméro du produit: 688660",
-    "Price": 4,
-    "URLimage": ["https://storage.googleapis.com/sales-img-ma-live/web/cache/sylius_large/6f/99/c2d996d79d2cc27a418f24b644bf.jpg"],
-    "id": 20
   }
- 
   ]
 }
