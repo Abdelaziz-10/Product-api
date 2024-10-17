@@ -229,7 +229,7 @@
     "ProductName": "FANTA",
     "ProductBarcode": "EAN_13: 5449000132277",
     "Id": 0,
-    "Description": "1,5 Lحامض",
+    "Description": "1,5L حامض\nBright, bubbly and popular, Fanta is the orange soft drink with a tingly, fruity and bold taste. With no artificial colours, Fanta softd rink is perfect for enjoying with friends, on the go or having with meals. Fanta Orange is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
     "Price": 7,
     "URLimage": ["https://images.openfoodfacts.org/images/products/544/900/005/2926/front_fr.97.400.jpg"],
     "id": 22
@@ -238,7 +238,7 @@
     "ProductName": "SPRITE",
     "ProductBarcode": "EAN_13: 5449000318527",
     "Id": 0,
-    "Description": "1,3L\nBright, bubbly and popular, Fanta is the orange soft drink with a tingly, fruity and bold taste. With no artificial colours, Fanta softd rink is perfect for enjoying with friends, on the go or having with meals. Fanta Orange is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+    "Description": "1,3L"
     "Price": 11,
     "URLimage": ["https://cdnx.jumpseller.com/bepensa-bebidas/image/49874825/thumb/540/540?1725322883"],
     "id": 23
