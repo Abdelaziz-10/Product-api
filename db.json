@@ -190,7 +190,7 @@
     "ProductBarcode": "EAN_13: 6111252420370",
     "Id": 0,
     "Description": "orange 1,5L",
-    "Price": 7.05,
+    "Price": 7.50,
     "URLimage": ["https://knjaz.rs/wp-content/uploads/2023/02/MIRINDA-0.5L-PET-img-min.jpg",
     "https://knjaz.rs/wp-content/uploads/2023/02/MIRINDA-1.5L-PET-img-min.jpg"],
     "id": 18
@@ -229,7 +229,7 @@
     "ProductName": "FANTA",
     "ProductBarcode": "EAN_13: 5449000132277",
     "Id": 0,
-    "Description": "1,5L حامض\nBright, bubbly and popular, Fanta is the orange soft drink with a tingly, fruity and bold taste. With no artificial colours, Fanta softd rink is perfect for enjoying with friends, on the go or having with meals. Fanta Orange is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
+    "Description": "1,5L LEMON\nBright, bubbly and popular, Fanta is the orange soft drink with a tingly, fruity and bold taste. With no artificial colours, Fanta softd rink is perfect for enjoying with friends, on the go or having with meals. Fanta Orange is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.",
     "Price": 7,
     "URLimage": ["https://images.openfoodfacts.org/images/products/544/900/005/2926/front_fr.97.400.jpg"],
     "id": 22
@@ -247,10 +247,9 @@
     "ProductName": "mirinda",
     "ProductBarcode": "EAN_13: 6111252420530",
     "Id": 0,
-    "Description": "1,5",
+    "Description": "1,5 CITRON",
     "Price": 7,
-    "URLimage": ["https://knjaz.rs/wp-content/uploads/2023/02/MIRINDA-0.5L-PET-img-min.jpg",
-    "https://knjaz.rs/wp-content/uploads/2023/02/MIRINDA-1.5L-PET-img-min.jpg"],
+    "URLimage": [""],
     "id": 24
   },
   {
@@ -261,6 +260,24 @@
     "Price": 1,
     "URLimage": ["https://berraka.fr/cdn/shop/files/IMG_0832.jpg?v=1719860488&width=600"],
     "id": 25
+  },
+  {
+    "ProductName": "Fanta",
+    "ProductBarcode": "EAN_13: 5449000052926",
+    "Id": 0,
+    "Description": "Orange 1,5",
+    "Price": 7,
+    "URLimage": [],
+    "id": 26
+  },
+  {
+    "ProductName": "HAWAI",
+    "ProductBarcode": "EAN_13: 5449000318541",
+    "Id": 0,
+    "Description": "ANANAS 1,3L",
+    "Price": 12,
+    "URLimage": [],
+    "id": 27
   }
   ]
 }
