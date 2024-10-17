@@ -180,8 +180,9 @@
     "Id": 0,
     "Description": "",
     "Price": 130,
-    "URLimage": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fsagacuisine.ma%2Fproducts%2Fetagere-carree-a-roues&psig=AOvVaw26uODopD_J_KQN8H1y0fRs&ust=1729097643936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDOqI7tkIkDFQAAAAAdAAAAABAE",
+    "URLimage": [
     "https://sagacuisine.ma/cdn/shop/files/etagere-carree-a-roues-saga-cuisine-5.png?v=1721710373&width=1800",
+      "https://sagacuisine.ma/cdn/shop/files/etagere-carree-a-roues-saga-cuisine-4.png?v=1721710372&width=1800",
     "https://sagacuisine.ma/cdn/shop/files/etagere-carree-a-roues-saga-cuisine-1.png?v=1721710368&width=1800"],
     "id": 17
   },
@@ -190,7 +191,7 @@
     "ProductBarcode": "EAN_13: 6111252420370",
     "Id": 0,
     "Description": "orange 1,5L",
-    "Price": 7.50,
+    "Price": 7.5,
     "URLimage": ["https://knjaz.rs/wp-content/uploads/2023/02/MIRINDA-0.5L-PET-img-min.jpg",
     "https://knjaz.rs/wp-content/uploads/2023/02/MIRINDA-1.5L-PET-img-min.jpg"],
     "id": 18
@@ -267,7 +268,7 @@
     "Id": 0,
     "Description": "Orange 1,5",
     "Price": 7,
-    "URLimage": [],
+    "URLimage": [""],
     "id": 26
   },
   {
@@ -276,7 +277,7 @@
     "Id": 0,
     "Description": "ANANAS 1,3L",
     "Price": 12,
-    "URLimage": [],
+    "URLimage": [""],
     "id": 27
   }
   ]
