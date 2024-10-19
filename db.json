@@ -250,7 +250,8 @@
     "Id": 0,
     "Description": "1,5 CITRON",
     "Price": 7,
-    "URLimage": [""],
+    "URLimage": ["https://i0.wp.com/www.aswakdelivery.com/casablanca/wp-content/uploads/sites/10/2022/12/0951085_1.jpg?resize=600%2C600&ssl=1",
+    "https://i0.wp.com/www.aswakdelivery.com/casablanca/wp-content/uploads/sites/10/2022/12/0951085_2.jpg?fit=1200%2C1200&ssl=1"],
     "id": 24
   },
   {
@@ -268,7 +269,7 @@
     "Id": 0,
     "Description": "Orange 1,5",
     "Price": 7,
-    "URLimage": [""],
+    "URLimage": ["https://www.aswaksouss.be/Produit/Images/FANTA-ORANGE-1.5L.jpg"],
     "id": 26
   },
   {
