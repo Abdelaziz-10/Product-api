@@ -280,6 +280,15 @@
     "Price": 12,
     "URLimage": [""],
     "id": 27
+  },
+  {
+    "ProductName": "DOLAMINE",
+    "ProductBarcode": "EAN_13: 6118000190394",
+    "Id": 0,
+    "Description": "Paracétamol - caféine - prométhazine \\nVoie orale 20 comprimés",
+    "Price": 14.3,
+    "URLimage": [],
+    "id": 28
   }
   ]
 }
