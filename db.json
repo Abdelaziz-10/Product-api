@@ -4093,7 +4093,7 @@
   },
   {
     "ProductName": "Jus Pulpy Pêche Cappy 1L",
-    "ProductBarcode": "EAN_13:5449000203823",
+    "ProductBarcode": "EAN_13: 5449000203823",
     "Id": 0,
     "Description": "Jus Pulpy Pêche Cappy 1L",
     "Price": 10.85,
@@ -4650,6 +4650,33 @@
       "https://www.mymarket.ma/cdn/shop/products/sidi-ali-pack-6x15l_2_1.png?v=1657016053&amp;width=375"
     ],
     "id": 419
+  },
+  {
+    "ProductName": "Soltane",
+    "ProductBarcode": "EAN_13: 6111248360130",
+    "Id": 0,
+    "Description": "EAU MINERALE NATURELLE 33CL AIN SOLTANE",
+    "Price": 2,
+    "URLimage": ["https://i0.wp.com/www.aswakdelivery.com/casablanca/wp-content/uploads/sites/10/2022/10/150404.jpg?fit=1200%2C1200&ssl=1"],
+    "id": 420
+  },
+  {
+    "ProductName": "أمان",
+    "ProductBarcode": "EAN_13: 6111248360376",
+    "Id": 0,
+    "Description": "33cl",
+    "Price": 2,
+    "URLimage": [],
+    "id": 421
+  },
+  {
+    "ProductName": "Cappy pulpy",
+    "ProductBarcode": "EAN_13: 54490002038230",
+    "Id": 0,
+    "Description": "pêche 1L",
+    "Price": 12,
+    "URLimage": [],
+    "id": 422
   }
   ]
 }
