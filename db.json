@@ -291,8 +291,20 @@
     "id": 28
   },
   {
+    "ProductName": "Eau Minérale Naturelle Sidi Ali 6x1.5 L",
+    "ProductBarcode": "EAN_13: 6111035000065",
+    "Id": 0,
+    "Description": "Eau Minérale Naturelle Sidi Ali 6x1.5 L",
+    "Price": 33.0,
+    "URLimage": [
+      "https://www.mymarket.ma/cdn/shop/products/sidi-ali-pack-6x15l_3_1.png?v=1657016025&amp;width=375",
+      "https://www.mymarket.ma/cdn/shop/products/sidi-ali-pack-6x15l_2_1.png?v=1657016053&amp;width=375"
+    ],
+    "id": 28
+  },
+  {
     "ProductName": "Eau Minérale Naturelle Ain Atlas 2x5L",
-    "ProductBarcode": "EAN_13:6111035001659",
+    "ProductBarcode": "EAN_13: 6111035001659",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Atlas 2x5L",
     "Price": 25.0,
@@ -304,7 +316,7 @@
   },
   {
     "ProductName": "Eau minéral naturelle Sidi Ali 12x50cl",
-    "ProductBarcode": "EAN_13:6111035000027",
+    "ProductBarcode": "EAN_13: 6111035000027",
     "Id": 0,
     "Description": "Eau minéral naturelle Sidi Ali 12x50cl",
     "Price": 39.0,
@@ -316,7 +328,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Saiss 2x5L",
-    "ProductBarcode": "EAN_13:6111128000460",
+    "ProductBarcode": "EAN_13: 6111128000460",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Saiss 2x5L",
     "Price": 27.0,
@@ -328,7 +340,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Ifrane  6x1.5L",
-    "ProductBarcode": "EAN_13:6111251420166",
+    "ProductBarcode": "EAN_13: 6111251420166",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Ifrane  6x1.5L",
     "Price": 31.99,
@@ -340,7 +352,7 @@
   },
   {
     "ProductName": "Eau minéral naturelle Sidi Ali 12x33cl",
-    "ProductBarcode": "EAN_13:6111035000430",
+    "ProductBarcode": "EAN_13: 6111035000430",
     "Id": 0,
     "Description": "Eau minéral naturelle Sidi Ali 12x33cl",
     "Price": 29.0,
@@ -352,7 +364,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain lfrane 2x5L",
-    "ProductBarcode": "EAN_13:6111251420272",
+    "ProductBarcode": "EAN_13: 6111251420272",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain lfrane 2x5L",
     "Price": 29.22,
@@ -363,7 +375,7 @@
   },
   {
     "ProductName": "Eau de table Bahia 2x5L",
-    "ProductBarcode": "EAN_13:6111035003523",
+    "ProductBarcode": "EAN_13: 6111035003523",
     "Id": 0,
     "Description": "Eau de table Bahia 2x5L",
     "Price": 22.0,
@@ -375,7 +387,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Oulmes 12 x 33cl",
-    "ProductBarcode": "EAN_13:6111035001024",
+    "ProductBarcode": "EAN_13: 6111035001024",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Oulmes 12 x 33cl",
     "Price": 54.5,
@@ -387,7 +399,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Oulmes 6x1L",
-    "ProductBarcode": "EAN_13:6111035001079",
+    "ProductBarcode": "EAN_13: 6111035001079",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Oulmes 6x1L",
     "Price": 43.8,
@@ -399,7 +411,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Saiss 6x1.5L",
-    "ProductBarcode": "EAN_13:6111128000071",
+    "ProductBarcode": "EAN_13: 6111128000071",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Saiss 6x1.5L",
     "Price": 34.0,
@@ -411,7 +423,7 @@
   },
   {
     "ProductName": "Coca Cola Zéro 25 CL",
-    "ProductBarcode": "EAN_13:5449000020987",
+    "ProductBarcode": "EAN_13: 5449000020987",
     "Id": 0,
     "Description": "Coca Cola Zéro 25 CL",
     "Price": 4.9,
@@ -422,7 +434,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Saiss 12x33cl",
-    "ProductBarcode": "EAN_13:6111128000163",
+    "ProductBarcode": "EAN_13: 6111128000163",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Saiss 12x33cl",
     "Price": 29.0,
@@ -433,7 +445,7 @@
   },
   {
     "ProductName": "Coca Cola Classique 1,3l",
-    "ProductBarcode": "EAN_13:5449000000439",
+    "ProductBarcode": "EAN_13: 5449000000439",
     "Id": 0,
     "Description": "Coca Cola Classique 1,3l",
     "Price": 14.57,
@@ -444,7 +456,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Atlas 6x1.5",
-    "ProductBarcode": "EAN_13:6111035001635",
+    "ProductBarcode": "EAN_13: 6111035001635",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Atlas 6x1.5",
     "Price": 30.0,
@@ -456,7 +468,7 @@
   },
   {
     "ProductName": "Eau minéral naturelle Sidi Ali 4x2L",
-    "ProductBarcode": "EAN_13:611035002175",
+    "ProductBarcode": "EAN_13: 611035002175",
     "Id": 0,
     "Description": "Eau minéral naturelle Sidi Ali 4x2L",
     "Price": 24.0,
@@ -468,7 +480,7 @@
   },
   {
     "ProductName": "Coca Cola Zéro 1l",
-    "ProductBarcode": "EAN_13:5449000133328",
+    "ProductBarcode": "EAN_13: 5449000133328",
     "Id": 0,
     "Description": "Coca Cola Zéro 1l",
     "Price": 8.5,
@@ -479,7 +491,7 @@
   },
   {
     "ProductName": "Jus Nectar Mangue Al Boustane 1L",
-    "ProductBarcode": "EAN_13:6111179003854",
+    "ProductBarcode": "EAN_13: 6111179003854",
     "Id": 0,
     "Description": "Jus Nectar Mangue Al Boustane 1L",
     "Price": 18.5,
@@ -490,7 +502,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Saiss 12x50cl",
-    "ProductBarcode": "EAN_13:6111128000088",
+    "ProductBarcode": "EAN_13: 6111128000088",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Saiss 12x50cl",
     "Price": 36.0,
@@ -501,7 +513,7 @@
   },
   {
     "ProductName": "Coca Cola Classique Canette 25cl",
-    "ProductBarcode": "EAN_13:5449000008046",
+    "ProductBarcode": "EAN_13: 5449000008046",
     "Id": 0,
     "Description": "Coca Cola Classique Canette 25cl",
     "Price": 5.5,
@@ -512,7 +524,7 @@
   },
   {
     "ProductName": "Jus Nectar Orange Al Boustane  1L",
-    "ProductBarcode": "EAN_13:6111179003847",
+    "ProductBarcode": "EAN_13: 6111179003847",
     "Id": 0,
     "Description": "Jus Nectar Orange Al Boustane  1L",
     "Price": 14.4,
@@ -523,7 +535,7 @@
   },
   {
     "ProductName": "Jus 100% Pur Orange Sans Colorants, Sans Conservateurs Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750720",
+    "ProductBarcode": "EAN_13: 6111251750720",
     "Id": 0,
     "Description": "Jus 100% Pur Orange Sans Colorants, Sans Conservateurs Valencia 1L",
     "Price": 22.45,
@@ -534,7 +546,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Oulmes 12x50cl",
-    "ProductBarcode": "EAN_13:6111035003004",
+    "ProductBarcode": "EAN_13: 6111035003004",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Oulmes 12x50cl",
     "Price": 61.8,
@@ -546,7 +558,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Ifrane 12x50 cl",
-    "ProductBarcode": "EAN_13:6111251420142",
+    "ProductBarcode": "EAN_13: 6111251420142",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Ifrane 12x50 cl",
     "Price": 35.5,
@@ -557,7 +569,7 @@
   },
   {
     "ProductName": "Coca cola Zero 50CL",
-    "ProductBarcode": "EAN_13:5449000131836",
+    "ProductBarcode": "EAN_13: 5449000131836",
     "Id": 0,
     "Description": "Coca cola Zero 50CL",
     "Price": 6.33,
@@ -568,7 +580,7 @@
   },
   {
     "ProductName": "Hawaii Tropical 1l",
-    "ProductBarcode": "EAN_13:5449000036872",
+    "ProductBarcode": "EAN_13: 5449000036872",
     "Id": 0,
     "Description": "Hawaii Tropical 1l",
     "Price": 10.5,
@@ -579,7 +591,7 @@
   },
   {
     "ProductName": "Jus 100% Pur Orange Sans Colorant Al Boustane  1L",
-    "ProductBarcode": "EAN_13:6111179006732",
+    "ProductBarcode": "EAN_13: 6111179006732",
     "Id": 0,
     "Description": "Jus 100% Pur Orange Sans Colorant Al Boustane  1L",
     "Price": 18.23,
@@ -590,7 +602,7 @@
   },
   {
     "ProductName": "Jus Nectar Cocktail De Fruits Al Boustane  1L",
-    "ProductBarcode": "EAN_13:6111179004080",
+    "ProductBarcode": "EAN_13: 6111179004080",
     "Id": 0,
     "Description": "Jus Nectar Cocktail De Fruits Al Boustane  1L",
     "Price": 18.23,
@@ -601,7 +613,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Atlas 12 x 33 CL",
-    "ProductBarcode": "EAN_13:6111035001710",
+    "ProductBarcode": "EAN_13: 6111035001710",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Atlas 12 x 33 CL",
     "Price": 25.0,
@@ -613,7 +625,7 @@
   },
   {
     "ProductName": "Coca cola 50CL",
-    "ProductBarcode": "EAN_13:54491472",
+    "ProductBarcode": "EAN_13: 54491472",
     "Id": 0,
     "Description": "Coca cola 50CL",
     "Price": 6.2,
@@ -624,7 +636,7 @@
   },
   {
     "ProductName": "Jus 100% Pur Ananas Sans Colorants, Sans Conservateurs Valencia 1L",
-    "ProductBarcode": "EAN_13:6174000001573",
+    "ProductBarcode": "EAN_13: 6174000001573",
     "Id": 0,
     "Description": "Jus 100% Pur Ananas Sans Colorants, Sans Conservateurs Valencia 1L",
     "Price": 22.45,
@@ -635,7 +647,7 @@
   },
   {
     "ProductName": "Schweppes Tonic Canette 33cl",
-    "ProductBarcode": "EAN_13:5449000046390",
+    "ProductBarcode": "EAN_13: 5449000046390",
     "Id": 0,
     "Description": "Schweppes Tonic Canette 33cl",
     "Price": 8.6,
@@ -646,7 +658,7 @@
   },
   {
     "ProductName": "Schweppes Tonic 1l",
-    "ProductBarcode": "EAN_13:5449000044808",
+    "ProductBarcode": "EAN_13: 5449000044808",
     "Id": 0,
     "Description": "Schweppes Tonic 1l",
     "Price": 12.5,
@@ -657,7 +669,7 @@
   },
   {
     "ProductName": "Jus 100% Pur Pomme Sans Colorant Al Boustane Premium 1L",
-    "ProductBarcode": "EAN_13:6111179006749",
+    "ProductBarcode": "EAN_13: 6111179006749",
     "Id": 0,
     "Description": "Jus 100% Pur Pomme Sans Colorant Al Boustane Premium 1L",
     "Price": 16.87,
@@ -668,7 +680,7 @@
   },
   {
     "ProductName": "Jus Nectar Pêche Al Boustane  1L",
-    "ProductBarcode": "EAN_13:6111179003861",
+    "ProductBarcode": "EAN_13: 6111179003861",
     "Id": 0,
     "Description": "Jus Nectar Pêche Al Boustane  1L",
     "Price": 14.38,
@@ -679,7 +691,7 @@
   },
   {
     "ProductName": "Poms 1L",
-    "ProductBarcode": "EAN_13:5449000036957",
+    "ProductBarcode": "EAN_13: 5449000036957",
     "Id": 0,
     "Description": "Poms 1L",
     "Price": 10.6,
@@ -690,7 +702,7 @@
   },
   {
     "ProductName": "YoPRO Milkshake 25G Protéines Vanille Danone 500 Ml",
-    "ProductBarcode": "EAN_13:6111032008064",
+    "ProductBarcode": "EAN_13: 6111032008064",
     "Id": 0,
     "Description": "YoPRO Milkshake 25G Protéines Vanille Danone 500 Ml",
     "Price": 11.5,
@@ -701,7 +713,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Ifrane 12x33cl",
-    "ProductBarcode": "EAN_13:6111251420135",
+    "ProductBarcode": "EAN_13: 6111251420135",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Ifrane 12x33cl",
     "Price": 26.1,
@@ -712,7 +724,7 @@
   },
   {
     "ProductName": "Schweppes citron 50CL",
-    "ProductBarcode": "EAN_13:40822747",
+    "ProductBarcode": "EAN_13: 40822747",
     "Id": 0,
     "Description": "Schweppes citron 50CL",
     "Price": 7.68,
@@ -723,7 +735,7 @@
   },
   {
     "ProductName": "Coca Cola Original 1L",
-    "ProductBarcode": "EAN_13:5449000054227",
+    "ProductBarcode": "EAN_13: 5449000054227",
     "Id": 0,
     "Description": "Coca Cola Original 1L",
     "Price": 9.2,
@@ -734,7 +746,7 @@
   },
   {
     "ProductName": "Jus Actifruits Fraise & Fruits Rouges Al Boustane  1L",
-    "ProductBarcode": "EAN_13:6111179006619",
+    "ProductBarcode": "EAN_13: 6111179006619",
     "Id": 0,
     "Description": "Jus Actifruits Fraise & Fruits Rouges Al Boustane  1L",
     "Price": 15.62,
@@ -745,7 +757,7 @@
   },
   {
     "ProductName": "Boisson Energétique Red Bull Canette 25cl",
-    "ProductBarcode": "EAN_13:90162602",
+    "ProductBarcode": "EAN_13: 90162602",
     "Id": 0,
     "Description": "Boisson Energétique Red Bull Canette 25cl",
     "Price": 23.33,
@@ -756,7 +768,7 @@
   },
   {
     "ProductName": "Jus 100% Pur Pommes Sans Colorants, Sans Conservateurs Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750744",
+    "ProductBarcode": "EAN_13: 6111251750744",
     "Id": 0,
     "Description": "Jus 100% Pur Pommes Sans Colorants, Sans Conservateurs Valencia 1L",
     "Price": 12.53,
@@ -767,7 +779,7 @@
   },
   {
     "ProductName": "Sprite 50CL",
-    "ProductBarcode": "EAN_13:54491069",
+    "ProductBarcode": "EAN_13: 54491069",
     "Id": 0,
     "Description": "Sprite 50CL",
     "Price": 6.0,
@@ -778,7 +790,7 @@
   },
   {
     "ProductName": "Jus Nectar Ananas Al Boustane 1L",
-    "ProductBarcode": "EAN_13:6111179003878",
+    "ProductBarcode": "EAN_13: 6111179003878",
     "Id": 0,
     "Description": "Jus Nectar Ananas Al Boustane 1L",
     "Price": 17.4,
@@ -789,7 +801,7 @@
   },
   {
     "ProductName": "Eau de table Bahia 6x1.5L",
-    "ProductBarcode": "EAN_13:6111035003509",
+    "ProductBarcode": "EAN_13: 6111035003509",
     "Id": 0,
     "Description": "Eau de table Bahia 6x1.5L",
     "Price": 27.0,
@@ -801,7 +813,7 @@
   },
   {
     "ProductName": "Coca Cola Classique Canette 33cl",
-    "ProductBarcode": "EAN_13:5449000000996",
+    "ProductBarcode": "EAN_13: 5449000000996",
     "Id": 0,
     "Description": "Coca Cola Classique Canette 33cl",
     "Price": 9.85,
@@ -812,7 +824,7 @@
   },
   {
     "ProductName": "Orangina 50cl",
-    "ProductBarcode": "EAN_13:8435185100955",
+    "ProductBarcode": "EAN_13: 8435185100955",
     "Id": 0,
     "Description": "Orangina 50cl",
     "Price": 7.34,
@@ -824,7 +836,7 @@
   },
   {
     "ProductName": "YoPRO  Milkshake 25G Protéines Chocolat Danone 500 Ml",
-    "ProductBarcode": "EAN_13:6111032008071",
+    "ProductBarcode": "EAN_13: 6111032008071",
     "Id": 0,
     "Description": "YoPRO  Milkshake 25G Protéines Chocolat Danone 500 Ml",
     "Price": 10.17,
@@ -835,7 +847,7 @@
   },
   {
     "ProductName": "SEVEN UP 1,5L",
-    "ProductBarcode": "EAN_13:6111252420240",
+    "ProductBarcode": "EAN_13: 6111252420240",
     "Id": 0,
     "Description": "SEVEN UP 1,5L",
     "Price": 10.2,
@@ -846,7 +858,7 @@
   },
   {
     "ProductName": "Orangina Canette 25cl",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Orangina Canette 25cl",
     "Price": 4.5,
@@ -858,7 +870,7 @@
   },
   {
     "ProductName": "Hawai Tropical 50CL",
-    "ProductBarcode": "EAN_13:54492103",
+    "ProductBarcode": "EAN_13: 54492103",
     "Id": 0,
     "Description": "Hawai Tropical 50CL",
     "Price": 6.5,
@@ -869,7 +881,7 @@
   },
   {
     "ProductName": "Poms 50 CL",
-    "ProductBarcode": "EAN_13:90494628",
+    "ProductBarcode": "EAN_13: 90494628",
     "Id": 0,
     "Description": "Poms 50 CL",
     "Price": 7.68,
@@ -880,7 +892,7 @@
   },
   {
     "ProductName": "Jus Orange Rani Pulpy 1L",
-    "ProductBarcode": "EAN_13:5449000207326",
+    "ProductBarcode": "EAN_13: 5449000207326",
     "Id": 0,
     "Description": "Jus Orange Rani Pulpy 1L",
     "Price": 13.2,
@@ -891,7 +903,7 @@
   },
   {
     "ProductName": "Coca Cola Zéro Canette 33cl",
-    "ProductBarcode": "EAN_13:5449000131805",
+    "ProductBarcode": "EAN_13: 5449000131805",
     "Id": 0,
     "Description": "Coca Cola Zéro Canette 33cl",
     "Price": 7.2,
@@ -902,7 +914,7 @@
   },
   {
     "ProductName": "Jus Orange Al Boustane Pulpe 1L",
-    "ProductBarcode": "EAN_13:6111179006176",
+    "ProductBarcode": "EAN_13: 6111179006176",
     "Id": 0,
     "Description": "Jus Orange Al Boustane Pulpe 1L",
     "Price": 11.26,
@@ -913,7 +925,7 @@
   },
   {
     "ProductName": "Eau de Table Aquafina 6 x 1.5L",
-    "ProductBarcode": "EAN_13:6111252421582",
+    "ProductBarcode": "EAN_13: 6111252421582",
     "Id": 0,
     "Description": "Eau de Table Aquafina 6 x 1.5L",
     "Price": 30.0,
@@ -924,7 +936,7 @@
   },
   {
     "ProductName": "Jus de Citron casino 200Ml",
-    "ProductBarcode": "EAN_13:3222476849953",
+    "ProductBarcode": "EAN_13: 3222476849953",
     "Id": 0,
     "Description": "Jus de Citron casino 200Ml",
     "Price": 13.14,
@@ -935,7 +947,7 @@
   },
   {
     "ProductName": "100% Jus Orange BIO Al Boustane 1L",
-    "ProductBarcode": "EAN_13:6111179006947",
+    "ProductBarcode": "EAN_13: 6111179006947",
     "Id": 0,
     "Description": "100% Jus Orange BIO Al Boustane 1L",
     "Price": 25.8,
@@ -946,7 +958,7 @@
   },
   {
     "ProductName": "100% Jus Pomme BIO Al Boustane 1L",
-    "ProductBarcode": "EAN_13:6111179006954",
+    "ProductBarcode": "EAN_13: 6111179006954",
     "Id": 0,
     "Description": "100% Jus Pomme BIO Al Boustane 1L",
     "Price": 22.36,
@@ -957,7 +969,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse San Pellegrino Orange Canette 33cl",
-    "ProductBarcode": "EAN_13:8002270046551",
+    "ProductBarcode": "EAN_13: 8002270046551",
     "Id": 0,
     "Description": "Boisson Gazeuse San Pellegrino Orange Canette 33cl",
     "Price": 11.88,
@@ -968,7 +980,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Sprite 1L",
-    "ProductBarcode": "EAN_13:5449000015105",
+    "ProductBarcode": "EAN_13: 5449000015105",
     "Id": 0,
     "Description": "Boisson Gazeuse Sprite 1L",
     "Price": 9.5,
@@ -979,7 +991,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Oulmes Légère 6x1L",
-    "ProductBarcode": "EAN_13:6111035003097",
+    "ProductBarcode": "EAN_13: 6111035003097",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Oulmes Légère 6x1L",
     "Price": 42.85,
@@ -991,7 +1003,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Atlas 12x50cl",
-    "ProductBarcode": "EAN_13:6111035001721",
+    "ProductBarcode": "EAN_13: 6111035001721",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Atlas 12x50cl",
     "Price": 36.0,
@@ -1003,7 +1015,7 @@
   },
   {
     "ProductName": "Fanta orange 1L",
-    "ProductBarcode": "EAN_13:5449000006271",
+    "ProductBarcode": "EAN_13: 5449000006271",
     "Id": 0,
     "Description": "Fanta orange 1L",
     "Price": 8.4,
@@ -1014,7 +1026,7 @@
   },
   {
     "ProductName": "EAU MINÉRALE NATURELLE  Ain Soltane 6x1,5 L",
-    "ProductBarcode": "EAN_13:6111248360116",
+    "ProductBarcode": "EAN_13: 6111248360116",
     "Id": 0,
     "Description": "EAU MINÉRALE NATURELLE  Ain Soltane 6x1,5 L",
     "Price": 28.8,
@@ -1025,7 +1037,7 @@
   },
   {
     "ProductName": "Jus Tropical Al Boustane Pulpe 1L",
-    "ProductBarcode": "EAN_13:6111179006190",
+    "ProductBarcode": "EAN_13: 6111179006190",
     "Id": 0,
     "Description": "Jus Tropical Al Boustane Pulpe 1L",
     "Price": 11.26,
@@ -1036,7 +1048,7 @@
   },
   {
     "ProductName": "San Pellegrino Citron Canette 33cl",
-    "ProductBarcode": "EAN_13:8002270066535",
+    "ProductBarcode": "EAN_13: 8002270066535",
     "Id": 0,
     "Description": "San Pellegrino Citron Canette 33cl",
     "Price": 11.4,
@@ -1047,7 +1059,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Oulmes 25CL Verre",
-    "ProductBarcode": "EAN_13:oul25ver-stk",
+    "ProductBarcode": "EAN_13: oul25ver-stk",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Oulmes 25CL Verre",
     "Price": 4.75,
@@ -1059,7 +1071,7 @@
   },
   {
     "ProductName": "Thé Glacé Citron Canette Rauch 35.5cl",
-    "ProductBarcode": "EAN_13:90087301",
+    "ProductBarcode": "EAN_13: 90087301",
     "Id": 0,
     "Description": "Thé Glacé Citron Canette Rauch 35.5cl",
     "Price": 12.4,
@@ -1070,7 +1082,7 @@
   },
   {
     "ProductName": "Schweppes Citron  Original Canette  33cl",
-    "ProductBarcode": "EAN_13:8414100301752",
+    "ProductBarcode": "EAN_13: 8414100301752",
     "Id": 0,
     "Description": "Schweppes Citron  Original Canette  33cl",
     "Price": 12.89,
@@ -1081,7 +1093,7 @@
   },
   {
     "ProductName": "Jus Frais Orange 100% Naturelle 0.5L",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Jus Frais Orange 100% Naturelle 0.5L",
     "Price": 8.34,
@@ -1092,7 +1104,7 @@
   },
   {
     "ProductName": "Jus 100% Pur Pommes Sans Sucres Ajoutés Compal 1L",
-    "ProductBarcode": "EAN_13:3596710007233",
+    "ProductBarcode": "EAN_13: 3596710007233",
     "Id": 0,
     "Description": "Jus 100% Pur Pommes Sans Sucres Ajoutés Compal 1L",
     "Price": 27.0,
@@ -1103,7 +1115,7 @@
   },
   {
     "ProductName": "Thé Glacé Pêche Rauch 1L",
-    "ProductBarcode": "EAN_13:90169373",
+    "ProductBarcode": "EAN_13: 90169373",
     "Id": 0,
     "Description": "Thé Glacé Pêche Rauch 1L",
     "Price": 23.0,
@@ -1114,7 +1126,7 @@
   },
   {
     "ProductName": "Schweppes Citron 1L",
-    "ProductBarcode": "EAN_13:5449000060068",
+    "ProductBarcode": "EAN_13: 5449000060068",
     "Id": 0,
     "Description": "Schweppes Citron 1L",
     "Price": 113.5,
@@ -1125,7 +1137,7 @@
   },
   {
     "ProductName": "EAU MINÉRALE NATURELLE  Ain Soltane 2,5 L",
-    "ProductBarcode": "EAN_13:6111248360277",
+    "ProductBarcode": "EAN_13: 6111248360277",
     "Id": 0,
     "Description": "EAU MINÉRALE NATURELLE  Ain Soltane 2,5 L",
     "Price": 12.0,
@@ -1136,7 +1148,7 @@
   },
   {
     "ProductName": "Lipton Ice Tea Saveur Citron 500ml",
-    "ProductBarcode": "EAN_13:9000144069520",
+    "ProductBarcode": "EAN_13: 9000144069520",
     "Id": 0,
     "Description": "Lipton Ice Tea Saveur Citron 500ml",
     "Price": 9.9,
@@ -1147,7 +1159,7 @@
   },
   {
     "ProductName": "Boisson Energétique Burn Canette 25cl",
-    "ProductBarcode": "EAN_13:5449000066015",
+    "ProductBarcode": "EAN_13: 5449000066015",
     "Id": 0,
     "Description": "Boisson Energétique Burn Canette 25cl",
     "Price": 12.48,
@@ -1158,7 +1170,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Ain Saiss Bulles 6x1L",
-    "ProductBarcode": "EAN_13:6111128000361",
+    "ProductBarcode": "EAN_13: 6111128000361",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Ain Saiss Bulles 6x1L",
     "Price": 40.34,
@@ -1169,7 +1181,7 @@
   },
   {
     "ProductName": "Eau Gazeuse Aromatisées Mojito Oulmes 25cl verre",
-    "ProductBarcode": "EAN_13:6111035002113",
+    "ProductBarcode": "EAN_13: 6111035002113",
     "Id": 0,
     "Description": "Eau Gazeuse Aromatisées Mojito Oulmes 25cl verre",
     "Price": 6.95,
@@ -1180,7 +1192,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Perrier 33cl Bouteille verre",
-    "ProductBarcode": "EAN_13:3179730011857",
+    "ProductBarcode": "EAN_13: 3179730011857",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Perrier 33cl Bouteille verre",
     "Price": 19.25,
@@ -1191,7 +1203,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle San Pellegrino Verre 75 cl",
-    "ProductBarcode": "EAN_13:8002270017520",
+    "ProductBarcode": "EAN_13: 8002270017520",
     "Id": 0,
     "Description": "Eau Minérale Naturelle San Pellegrino Verre 75 cl",
     "Price": 22.04,
@@ -1202,7 +1214,7 @@
   },
   {
     "ProductName": "Ginger Ale 100 % Naturelle Schweppes 25 CL",
-    "ProductBarcode": "EAN_13:8414100333340",
+    "ProductBarcode": "EAN_13: 8414100333340",
     "Id": 0,
     "Description": "Ginger Ale 100 % Naturelle Schweppes 25 CL",
     "Price": 13.5,
@@ -1213,7 +1225,7 @@
   },
   {
     "ProductName": "Boisson Bio au Soja Chocolat Casino 1L",
-    "ProductBarcode": "EAN_13:3222473592296",
+    "ProductBarcode": "EAN_13: 3222473592296",
     "Id": 0,
     "Description": "Boisson Bio au Soja Chocolat Casino 1L",
     "Price": 27.55,
@@ -1224,7 +1236,7 @@
   },
   {
     "ProductName": "Thé Glacé Citron Rauch 1L",
-    "ProductBarcode": "EAN_13:90169342",
+    "ProductBarcode": "EAN_13: 90169342",
     "Id": 0,
     "Description": "Thé Glacé Citron Rauch 1L",
     "Price": 23.0,
@@ -1235,7 +1247,7 @@
   },
   {
     "ProductName": "Boisson Bio au Soja Calcium Casino 1L",
-    "ProductBarcode": "EAN_13:3222472888000",
+    "ProductBarcode": "EAN_13: 3222472888000",
     "Id": 0,
     "Description": "Boisson Bio au Soja Calcium Casino 1L",
     "Price": 28.8,
@@ -1246,7 +1258,7 @@
   },
   {
     "ProductName": "Sirop de Citron Teisseire 600ml",
-    "ProductBarcode": "EAN_13:3092718586737",
+    "ProductBarcode": "EAN_13: 3092718586737",
     "Id": 0,
     "Description": "Sirop de Citron Teisseire 600ml",
     "Price": 95.0,
@@ -1257,7 +1269,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse San Pellegrino Aranciata Rossa Canette 33cl",
-    "ProductBarcode": "EAN_13:8002270076541",
+    "ProductBarcode": "EAN_13: 8002270076541",
     "Id": 0,
     "Description": "Boisson Gazeuse San Pellegrino Aranciata Rossa Canette 33cl",
     "Price": 13.88,
@@ -1268,7 +1280,7 @@
   },
   {
     "ProductName": "Eau Plate Prestige Evian pet 1L",
-    "ProductBarcode": "EAN_13:3068320111094",
+    "ProductBarcode": "EAN_13: 3068320111094",
     "Id": 0,
     "Description": "Eau Plate Prestige Evian pet 1L",
     "Price": 28.2,
@@ -1279,7 +1291,7 @@
   },
   {
     "ProductName": "Lipton Ice Tea Saveur Peche 330ml",
-    "ProductBarcode": "EAN_13:5601165005180",
+    "ProductBarcode": "EAN_13: 5601165005180",
     "Id": 0,
     "Description": "Lipton Ice Tea Saveur Peche 330ml",
     "Price": 8.05,
@@ -1290,7 +1302,7 @@
   },
   {
     "ProductName": "Nectar d'Oranges Classico Compal 1L",
-    "ProductBarcode": "EAN_13:5601151122201",
+    "ProductBarcode": "EAN_13: 5601151122201",
     "Id": 0,
     "Description": "Nectar d'Oranges Classico Compal 1L",
     "Price": 29.52,
@@ -1301,7 +1313,7 @@
   },
   {
     "ProductName": "Orangina Zéro 1L",
-    "ProductBarcode": "EAN_13:8435185962379",
+    "ProductBarcode": "EAN_13: 8435185962379",
     "Id": 0,
     "Description": "Orangina Zéro 1L",
     "Price": 10.77,
@@ -1312,7 +1324,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Oulmes Légère 12x50cl",
-    "ProductBarcode": "EAN_13:6111035003066",
+    "ProductBarcode": "EAN_13: 6111035003066",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Oulmes Légère 12x50cl",
     "Price": 56.88,
@@ -1324,7 +1336,7 @@
   },
   {
     "ProductName": "Eau Aromatisées Tropical Oasis 33cl",
-    "ProductBarcode": "EAN_13:3124480186560",
+    "ProductBarcode": "EAN_13: 3124480186560",
     "Id": 0,
     "Description": "Eau Aromatisées Tropical Oasis 33cl",
     "Price": 12.5,
@@ -1335,7 +1347,7 @@
   },
   {
     "ProductName": "Sirop de Menthe Teisseire 600ml",
-    "ProductBarcode": "EAN_13:3092718586706",
+    "ProductBarcode": "EAN_13: 3092718586706",
     "Id": 0,
     "Description": "Sirop de Menthe Teisseire 600ml",
     "Price": 75.0,
@@ -1346,7 +1358,7 @@
   },
   {
     "ProductName": "Orangina  1L",
-    "ProductBarcode": "EAN_13:8435185101112",
+    "ProductBarcode": "EAN_13: 8435185101112",
     "Id": 0,
     "Description": "Orangina  1L",
     "Price": 8.95,
@@ -1357,7 +1369,7 @@
   },
   {
     "ProductName": "Eau de Source Naturelle Cristaline 6x1.5L",
-    "ProductBarcode": "EAN_13:3674080005003",
+    "ProductBarcode": "EAN_13: 3674080005003",
     "Id": 0,
     "Description": "Eau de Source Naturelle Cristaline 6x1.5L",
     "Price": 38.0,
@@ -1368,7 +1380,7 @@
   },
   {
     "ProductName": "Jus 100% Pur Ananas Sans Colorant Al Boustane Premium 1L",
-    "ProductBarcode": "EAN_13:6111179006923",
+    "ProductBarcode": "EAN_13: 6111179006923",
     "Id": 0,
     "Description": "Jus 100% Pur Ananas Sans Colorant Al Boustane Premium 1L",
     "Price": 18.68,
@@ -1379,7 +1391,7 @@
   },
   {
     "ProductName": "Jus Actifruits Grenade Al Boustane 1L",
-    "ProductBarcode": "EAN_13:6111179006633",
+    "ProductBarcode": "EAN_13: 6111179006633",
     "Id": 0,
     "Description": "Jus Actifruits Grenade Al Boustane 1L",
     "Price": 19.0,
@@ -1390,7 +1402,7 @@
   },
   {
     "ProductName": "Boisson d'Avoine Bio Casino 1L",
-    "ProductBarcode": "EAN_13:3222474042554",
+    "ProductBarcode": "EAN_13: 3222474042554",
     "Id": 0,
     "Description": "Boisson d'Avoine Bio Casino 1L",
     "Price": 25.25,
@@ -1401,7 +1413,7 @@
   },
   {
     "ProductName": "Sirop de Pêche Teisseire 600ml",
-    "ProductBarcode": "EAN_13:3092718586768",
+    "ProductBarcode": "EAN_13: 3092718586768",
     "Id": 0,
     "Description": "Sirop de Pêche Teisseire 600ml",
     "Price": 95.4,
@@ -1412,7 +1424,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Premium Original Bavaria 33cl",
-    "ProductBarcode": "EAN_13:8714800003384",
+    "ProductBarcode": "EAN_13: 8714800003384",
     "Id": 0,
     "Description": "Boisson Sans Alcool Premium Original Bavaria 33cl",
     "Price": 22.8,
@@ -1423,7 +1435,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Sprite 1.5L",
-    "ProductBarcode": "EAN_13:5449000006295",
+    "ProductBarcode": "EAN_13: 5449000006295",
     "Id": 0,
     "Description": "Boisson Gazeuse Sprite 1.5L",
     "Price": 10.68,
@@ -1434,7 +1446,7 @@
   },
   {
     "ProductName": "100% Pur Jus BIO Raisin Pomme Cranberry  Casino  1L",
-    "ProductBarcode": "EAN_13:3222476725486",
+    "ProductBarcode": "EAN_13: 3222476725486",
     "Id": 0,
     "Description": "100% Pur Jus BIO Raisin Pomme Cranberry  Casino  1L",
     "Price": 68.95,
@@ -1445,7 +1457,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Fraise Bavaria 33cl",
-    "ProductBarcode": "EAN_13:8714800027878",
+    "ProductBarcode": "EAN_13: 8714800027878",
     "Id": 0,
     "Description": "Boisson Sans Alcool Fraise Bavaria 33cl",
     "Price": 22.8,
@@ -1456,7 +1468,7 @@
   },
   {
     "ProductName": "Eau de Table Aquafina 12 x 50cl",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau de Table Aquafina 12 x 50cl",
     "Price": 36.0,
@@ -1467,7 +1479,7 @@
   },
   {
     "ProductName": "Eau de Table Aquafina 12 x 33cl",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau de Table Aquafina 12 x 33cl",
     "Price": 24.0,
@@ -1478,7 +1490,7 @@
   },
   {
     "ProductName": "100% Pur Jus Tomate Salé Bio Casino 75 cl",
-    "ProductBarcode": "EAN_13:3222473216321",
+    "ProductBarcode": "EAN_13: 3222473216321",
     "Id": 0,
     "Description": "100% Pur Jus Tomate Salé Bio Casino 75 cl",
     "Price": 31.2,
@@ -1489,7 +1501,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Aromatisée Citron Ain Saiss 1.5L",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Aromatisée Citron Ain Saiss 1.5L",
     "Price": 8.1,
@@ -1501,7 +1513,7 @@
   },
   {
     "ProductName": "Jus Frais Betterave 100% Naturelle 0.5L",
-    "ProductBarcode": "EAN_13:40951805",
+    "ProductBarcode": "EAN_13: 40951805",
     "Id": 0,
     "Description": "Jus Frais Betterave 100% Naturelle 0.5L",
     "Price": 15.76,
@@ -1512,7 +1524,7 @@
   },
   {
     "ProductName": "Boisson Bio au Soja Nature Casino 1L",
-    "ProductBarcode": "EAN_13:3222472887966",
+    "ProductBarcode": "EAN_13: 3222472887966",
     "Id": 0,
     "Description": "Boisson Bio au Soja Nature Casino 1L",
     "Price": 24.0,
@@ -1523,7 +1535,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Citron Bavaria 33cl",
-    "ProductBarcode": "EAN_13:8714800019897",
+    "ProductBarcode": "EAN_13: 8714800019897",
     "Id": 0,
     "Description": "Boisson Sans Alcool Citron Bavaria 33cl",
     "Price": 22.8,
@@ -1534,7 +1546,7 @@
   },
   {
     "ProductName": "Boisson Aromatisées Citron Oulmes 25cl",
-    "ProductBarcode": "EAN_13:6111035002021",
+    "ProductBarcode": "EAN_13: 6111035002021",
     "Id": 0,
     "Description": "Boisson Aromatisées Citron Oulmes 25cl",
     "Price": 6.5,
@@ -1545,7 +1557,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Pomme Bavaria 33cl",
-    "ProductBarcode": "EAN_13:8714800017473",
+    "ProductBarcode": "EAN_13: 8714800017473",
     "Id": 0,
     "Description": "Boisson Sans Alcool Pomme Bavaria 33cl",
     "Price": 22.8,
@@ -1556,7 +1568,7 @@
   },
   {
     "ProductName": "Hawai Tropical Canette 33cl",
-    "ProductBarcode": "EAN_13:5449000036896",
+    "ProductBarcode": "EAN_13: 5449000036896",
     "Id": 0,
     "Description": "Hawai Tropical Canette 33cl",
     "Price": 9.85,
@@ -1567,7 +1579,7 @@
   },
   {
     "ProductName": "Carte Cadeau MyMarket",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Carte Cadeau MyMarket",
     "Price": 0,
@@ -1578,7 +1590,7 @@
   },
   {
     "ProductName": "Jus Nectar Mangue Al Boustane 20cl",
-    "ProductBarcode": "EAN_13:6111179001935",
+    "ProductBarcode": "EAN_13: 6111179001935",
     "Id": 0,
     "Description": "Jus Nectar Mangue Al Boustane 20cl",
     "Price": 3.25,
@@ -1589,7 +1601,7 @@
   },
   {
     "ProductName": "Jus Frais Carotte 100% Naturelle 0.5L",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Jus Frais Carotte 100% Naturelle 0.5L",
     "Price": 8.33,
@@ -1600,7 +1612,7 @@
   },
   {
     "ProductName": "EAU MINÉRALE NATURELLE  Ain Soltane  12x50 cl",
-    "ProductBarcode": "EAN_13:6111248360116",
+    "ProductBarcode": "EAN_13: 6111248360116",
     "Id": 0,
     "Description": "EAU MINÉRALE NATURELLE  Ain Soltane  12x50 cl",
     "Price": 38.5,
@@ -1611,7 +1623,7 @@
   },
   {
     "ProductName": "Virgin Mojito Schweppes 33 cl",
-    "ProductBarcode": "EAN_13:3124480186867",
+    "ProductBarcode": "EAN_13: 3124480186867",
     "Id": 0,
     "Description": "Virgin Mojito Schweppes 33 cl",
     "Price": 14.37,
@@ -1622,7 +1634,7 @@
   },
   {
     "ProductName": "Sirop de Framboise & Cranberry Teisseire 600ml",
-    "ProductBarcode": "EAN_13:3092718613013",
+    "ProductBarcode": "EAN_13: 3092718613013",
     "Id": 0,
     "Description": "Sirop de Framboise & Cranberry Teisseire 600ml",
     "Price": 95.5,
@@ -1633,7 +1645,7 @@
   },
   {
     "ProductName": "Schweppes Tonika PINK  25cl",
-    "ProductBarcode": "EAN_13:8414100363545",
+    "ProductBarcode": "EAN_13: 8414100363545",
     "Id": 0,
     "Description": "Schweppes Tonika PINK  25cl",
     "Price": 17.0,
@@ -1644,7 +1656,7 @@
   },
   {
     "ProductName": "EAU MINÉRALE NATURELLE  Ain Soltane 2x5 L",
-    "ProductBarcode": "EAN_13:6111248360109",
+    "ProductBarcode": "EAN_13: 6111248360109",
     "Id": 0,
     "Description": "EAU MINÉRALE NATURELLE  Ain Soltane 2x5 L",
     "Price": 25.2,
@@ -1655,7 +1667,7 @@
   },
   {
     "ProductName": "Boisson au Riz et Amandes Bio Casino 1L",
-    "ProductBarcode": "EAN_13:3222476285850",
+    "ProductBarcode": "EAN_13: 3222476285850",
     "Id": 0,
     "Description": "Boisson au Riz et Amandes Bio Casino 1L",
     "Price": 31.85,
@@ -1666,7 +1678,7 @@
   },
   {
     "ProductName": "Fanta Orange 50CL",
-    "ProductBarcode": "EAN_13:40822938",
+    "ProductBarcode": "EAN_13: 40822938",
     "Id": 0,
     "Description": "Fanta Orange 50CL",
     "Price": 6.6,
@@ -1677,7 +1689,7 @@
   },
   {
     "ProductName": "Naranja ( Orange ) Schweppes Original Canette 33cl",
-    "ProductBarcode": "EAN_13:8414100301851",
+    "ProductBarcode": "EAN_13: 8414100301851",
     "Id": 0,
     "Description": "Naranja ( Orange ) Schweppes Original Canette 33cl",
     "Price": 13.0,
@@ -1688,7 +1700,7 @@
   },
   {
     "ProductName": "Poms Canette 25 CL",
-    "ProductBarcode": "EAN_13:5449000144874",
+    "ProductBarcode": "EAN_13: 5449000144874",
     "Id": 0,
     "Description": "Poms Canette 25 CL",
     "Price": 5.95,
@@ -1699,7 +1711,7 @@
   },
   {
     "ProductName": "Eau Minéral Mondariz 50cl",
-    "ProductBarcode": "EAN_13:8412042502367",
+    "ProductBarcode": "EAN_13: 8412042502367",
     "Id": 0,
     "Description": "Eau Minéral Mondariz 50cl",
     "Price": 4.3,
@@ -1710,7 +1722,7 @@
   },
   {
     "ProductName": "Boisson Chocolat Snickers 350 ML",
-    "ProductBarcode": "EAN_13:5060122036849",
+    "ProductBarcode": "EAN_13: 5060122036849",
     "Id": 0,
     "Description": "Boisson Chocolat Snickers 350 ML",
     "Price": 31.05,
@@ -1721,7 +1733,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Ain Saiss Bulles 12 x 50 cl",
-    "ProductBarcode": "EAN_13:6111128000378",
+    "ProductBarcode": "EAN_13: 6111128000378",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Ain Saiss Bulles 12 x 50 cl",
     "Price": 53.82,
@@ -1732,7 +1744,7 @@
   },
   {
     "ProductName": "Jus Premium Mojito Citron et Menthe Al Boustane 1L",
-    "ProductBarcode": "EAN_13:6111179006930",
+    "ProductBarcode": "EAN_13: 6111179006930",
     "Id": 0,
     "Description": "Jus Premium Mojito Citron et Menthe Al Boustane 1L",
     "Price": 14.0,
@@ -1743,7 +1755,7 @@
   },
   {
     "ProductName": "Jus Actifruits Pina Colada Al Boustane 1L",
-    "ProductBarcode": "EAN_13:6111179006626",
+    "ProductBarcode": "EAN_13: 6111179006626",
     "Id": 0,
     "Description": "Jus Actifruits Pina Colada Al Boustane 1L",
     "Price": 15.62,
@@ -1754,7 +1766,7 @@
   },
   {
     "ProductName": "Coca Cola Energy 25cl",
-    "ProductBarcode": "EAN_13:5449000265098",
+    "ProductBarcode": "EAN_13: 5449000265098",
     "Id": 0,
     "Description": "Coca Cola Energy 25cl",
     "Price": 10.0,
@@ -1765,7 +1777,7 @@
   },
   {
     "ProductName": "Pur jus Clémentine Casino 1L",
-    "ProductBarcode": "EAN_13:3222472708889",
+    "ProductBarcode": "EAN_13: 3222472708889",
     "Id": 0,
     "Description": "Pur jus Clémentine Casino 1L",
     "Price": 35.94,
@@ -1776,7 +1788,7 @@
   },
   {
     "ProductName": "Eau de Source Gazeuse Cristaline 50cl",
-    "ProductBarcode": "EAN_13:3254381016922",
+    "ProductBarcode": "EAN_13: 3254381016922",
     "Id": 0,
     "Description": "Eau de Source Gazeuse Cristaline 50cl",
     "Price": 5.0,
@@ -1787,7 +1799,7 @@
   },
   {
     "ProductName": "EAU MINÉRALE NATURELLE  Ain Soltane 12x33 cl",
-    "ProductBarcode": "EAN_13:6111248360130",
+    "ProductBarcode": "EAN_13: 6111248360130",
     "Id": 0,
     "Description": "EAU MINÉRALE NATURELLE  Ain Soltane 12x33 cl",
     "Price": 25.0,
@@ -1798,7 +1810,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Pêche Bavaria 33cl",
-    "ProductBarcode": "EAN_13:8714800019927",
+    "ProductBarcode": "EAN_13: 8714800019927",
     "Id": 0,
     "Description": "Boisson Sans Alcool Pêche Bavaria 33cl",
     "Price": 22.8,
@@ -1809,7 +1821,7 @@
   },
   {
     "ProductName": "Russchian aux Saveurs de Baies Sauvages Schweppes 33 cl",
-    "ProductBarcode": "EAN_13:5410221306754",
+    "ProductBarcode": "EAN_13: 5410221306754",
     "Id": 0,
     "Description": "Russchian aux Saveurs de Baies Sauvages Schweppes 33 cl",
     "Price": 14.37,
@@ -1820,7 +1832,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Sidi Ali en Verre 75cl",
-    "ProductBarcode": "EAN_13:6111035001383",
+    "ProductBarcode": "EAN_13: 6111035001383",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Sidi Ali en Verre 75cl",
     "Price": 13.14,
@@ -1831,7 +1843,7 @@
   },
   {
     "ProductName": "Sirop de Fruit de la Passion Teisseire 600ml",
-    "ProductBarcode": "EAN_13:3092718586805",
+    "ProductBarcode": "EAN_13: 3092718586805",
     "Id": 0,
     "Description": "Sirop de Fruit de la Passion Teisseire 600ml",
     "Price": 96.0,
@@ -1842,7 +1854,7 @@
   },
   {
     "ProductName": "Sirop de Citron Teisseire 0% Sucre 600ml",
-    "ProductBarcode": "EAN_13:3092718613075",
+    "ProductBarcode": "EAN_13: 3092718613075",
     "Id": 0,
     "Description": "Sirop de Citron Teisseire 0% Sucre 600ml",
     "Price": 75.48,
@@ -1853,7 +1865,7 @@
   },
   {
     "ProductName": "Pur jus Pommes Casino 1L",
-    "ProductBarcode": "EAN_13:3222475344893",
+    "ProductBarcode": "EAN_13: 3222475344893",
     "Id": 0,
     "Description": "Pur jus Pommes Casino 1L",
     "Price": 35.94,
@@ -1864,7 +1876,7 @@
   },
   {
     "ProductName": "Jus De Raisin Bio BIOITALIA 750 ml",
-    "ProductBarcode": "EAN_13:8024046245012",
+    "ProductBarcode": "EAN_13: 8024046245012",
     "Id": 0,
     "Description": "Jus De Raisin Bio BIOITALIA 750 ml",
     "Price": 47.9,
@@ -1875,7 +1887,7 @@
   },
   {
     "ProductName": "Jus De Pomme Bio BIOITALIA  750 ml",
-    "ProductBarcode": "EAN_13:8024046244015",
+    "ProductBarcode": "EAN_13: 8024046244015",
     "Id": 0,
     "Description": "Jus De Pomme Bio BIOITALIA  750 ml",
     "Price": 37.25,
@@ -1886,7 +1898,7 @@
   },
   {
     "ProductName": "Eau minéral naturelle Sidi Ali Kids 6x33cl",
-    "ProductBarcode": "EAN_13:6111035002359",
+    "ProductBarcode": "EAN_13: 6111035002359",
     "Id": 0,
     "Description": "Eau minéral naturelle Sidi Ali Kids 6x33cl",
     "Price": 15.0,
@@ -1898,7 +1910,7 @@
   },
   {
     "ProductName": "Yaourt Sport À Boire Protéiné 36g Banane Chergui 450ml",
-    "ProductBarcode": "EAN_13:6111126005719",
+    "ProductBarcode": "EAN_13: 6111126005719",
     "Id": 0,
     "Description": "Yaourt Sport À Boire Protéiné 36g Banane Chergui 450ml",
     "Price": 23.99,
@@ -1909,7 +1921,7 @@
   },
   {
     "ProductName": "Pur jus d'ananas Sans Colorants, Sans Conservateurs Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750737",
+    "ProductBarcode": "EAN_13: 6111251750737",
     "Id": 0,
     "Description": "Pur jus d'ananas Sans Colorants, Sans Conservateurs Valencia 1L",
     "Price": 17.64,
@@ -1920,7 +1932,7 @@
   },
   {
     "ProductName": "The Original RUSSCHIAN Schweppes  33cl",
-    "ProductBarcode": "EAN_13:5908860413868",
+    "ProductBarcode": "EAN_13: 5908860413868",
     "Id": 0,
     "Description": "The Original RUSSCHIAN Schweppes  33cl",
     "Price": 12.5,
@@ -1931,7 +1943,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Sidi Harazem 6x1.5 L",
-    "ProductBarcode": "EAN_13:6111128000026",
+    "ProductBarcode": "EAN_13: 6111128000026",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Sidi Harazem 6x1.5 L",
     "Price": 31.5,
@@ -1942,7 +1954,7 @@
   },
   {
     "ProductName": "Jus de Citron Jaune limonino Polenghi 200Ml",
-    "ProductBarcode": "EAN_13:8031301882455",
+    "ProductBarcode": "EAN_13: 8031301882455",
     "Id": 0,
     "Description": "Jus de Citron Jaune limonino Polenghi 200Ml",
     "Price": 12.6,
@@ -1953,7 +1965,7 @@
   },
   {
     "ProductName": "Eau Plate Evian Verre 75CL",
-    "ProductBarcode": "EAN_13:3068320103396",
+    "ProductBarcode": "EAN_13: 3068320103396",
     "Id": 0,
     "Description": "Eau Plate Evian Verre 75CL",
     "Price": 33.36,
@@ -1964,7 +1976,7 @@
   },
   {
     "ProductName": "Blue Raspberry Hydration Drink Prime 500 ml",
-    "ProductBarcode": "EAN_13:850003560670",
+    "ProductBarcode": "EAN_13: 850003560670",
     "Id": 0,
     "Description": "Blue Raspberry Hydration Drink Prime 500 ml",
     "Price": 78.0,
@@ -1975,7 +1987,7 @@
   },
   {
     "ProductName": "Classic Vanilla CocaCola 33cl",
-    "ProductBarcode": "EAN_13:5449000098917",
+    "ProductBarcode": "EAN_13: 5449000098917",
     "Id": 0,
     "Description": "Classic Vanilla CocaCola 33cl",
     "Price": 18.0,
@@ -1986,7 +1998,7 @@
   },
   {
     "ProductName": "Boisson chocolatée Original Sans Gluten Cacaolat  1L",
-    "ProductBarcode": "EAN_13:8412700130468",
+    "ProductBarcode": "EAN_13: 8412700130468",
     "Id": 0,
     "Description": "Boisson chocolatée Original Sans Gluten Cacaolat  1L",
     "Price": 42.0,
@@ -1997,7 +2009,7 @@
   },
   {
     "ProductName": "Eau Minéral Mondariz 1.5L",
-    "ProductBarcode": "EAN_13:8412042502312",
+    "ProductBarcode": "EAN_13: 8412042502312",
     "Id": 0,
     "Description": "Eau Minéral Mondariz 1.5L",
     "Price": 7.15,
@@ -2008,7 +2020,7 @@
   },
   {
     "ProductName": "Boisson Lactée au Chocolat m&m's  350 ml",
-    "ProductBarcode": "EAN_13:5060402900822",
+    "ProductBarcode": "EAN_13: 5060402900822",
     "Id": 0,
     "Description": "Boisson Lactée au Chocolat m&m's  350 ml",
     "Price": 33.8,
@@ -2019,7 +2031,7 @@
   },
   {
     "ProductName": "Boisson Lactée au Chocolat Mars  350 ml",
-    "ProductBarcode": "EAN_13:5060122034401",
+    "ProductBarcode": "EAN_13: 5060122034401",
     "Id": 0,
     "Description": "Boisson Lactée au Chocolat Mars  350 ml",
     "Price": 33.8,
@@ -2030,7 +2042,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Fanta Citron 1L",
-    "ProductBarcode": "EAN_13:5449000000088",
+    "ProductBarcode": "EAN_13: 5449000000088",
     "Id": 0,
     "Description": "Boisson Gazeuse Fanta Citron 1L",
     "Price": 9.3,
@@ -2041,7 +2053,7 @@
   },
   {
     "ProductName": "Multifruit Tropicana 900ml",
-    "ProductBarcode": "EAN_13:3168930156680",
+    "ProductBarcode": "EAN_13: 3168930156680",
     "Id": 0,
     "Description": "Multifruit Tropicana 900ml",
     "Price": 59.94,
@@ -2052,7 +2064,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Gazéifiée Aromatisée Au Fraise Perrier 1L",
-    "ProductBarcode": "EAN_13:7613034515612",
+    "ProductBarcode": "EAN_13: 7613034515612",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Gazéifiée Aromatisée Au Fraise Perrier 1L",
     "Price": 15.99,
@@ -2063,7 +2075,7 @@
   },
   {
     "ProductName": "Jus Orange Cappy Pulpy 25CL",
-    "ProductBarcode": "EAN_13:90382383",
+    "ProductBarcode": "EAN_13: 90382383",
     "Id": 0,
     "Description": "Jus Orange Cappy Pulpy 25CL",
     "Price": 4.5,
@@ -2074,7 +2086,7 @@
   },
   {
     "ProductName": "Tropical Punch Hydration Drink Prime 500 ml",
-    "ProductBarcode": "EAN_13:850003560717",
+    "ProductBarcode": "EAN_13: 850003560717",
     "Id": 0,
     "Description": "Tropical Punch Hydration Drink Prime 500 ml",
     "Price": 78.0,
@@ -2085,7 +2097,7 @@
   },
   {
     "ProductName": "Lemon Lime Hydration Drink Prime 500 ml",
-    "ProductBarcode": "EAN_13:8500356694",
+    "ProductBarcode": "EAN_13: 8500356694",
     "Id": 0,
     "Description": "Lemon Lime Hydration Drink Prime 500 ml",
     "Price": 78.0,
@@ -2096,7 +2108,7 @@
   },
   {
     "ProductName": "Sirop Blue Curacao Monin 70cl",
-    "ProductBarcode": "EAN_13:052910056353",
+    "ProductBarcode": "EAN_13: 052910056353",
     "Id": 0,
     "Description": "Sirop Blue Curacao Monin 70cl",
     "Price": 188.9,
@@ -2107,7 +2119,7 @@
   },
   {
     "ProductName": "Ice Tea Pêche Arizona 330 ml",
-    "ProductBarcode": "EAN_13:0613008743949",
+    "ProductBarcode": "EAN_13: 0613008743949",
     "Id": 0,
     "Description": "Ice Tea Pêche Arizona 330 ml",
     "Price": 19.08,
@@ -2118,7 +2130,7 @@
   },
   {
     "ProductName": "Boisson de Citronnade Island Wave Lemonade Calypso  473 ml",
-    "ProductBarcode": "EAN_13:0079581184058",
+    "ProductBarcode": "EAN_13: 0079581184058",
     "Id": 0,
     "Description": "Boisson de Citronnade Island Wave Lemonade Calypso  473 ml",
     "Price": 39.0,
@@ -2130,7 +2142,7 @@
   },
   {
     "ProductName": "Jus de Nectar Orange & Mandarine Marrakech  1L",
-    "ProductBarcode": "EAN_13:6111242923621",
+    "ProductBarcode": "EAN_13: 6111242923621",
     "Id": 0,
     "Description": "Jus de Nectar Orange & Mandarine Marrakech  1L",
     "Price": 12.9,
@@ -2141,7 +2153,7 @@
   },
   {
     "ProductName": "Sprite Citron Zéro Sucre 1L",
-    "ProductBarcode": "EAN_13:5449000102805",
+    "ProductBarcode": "EAN_13: 5449000102805",
     "Id": 0,
     "Description": "Sprite Citron Zéro Sucre 1L",
     "Price": 7.95,
@@ -2152,7 +2164,7 @@
   },
   {
     "ProductName": "Frappuccino Café Glacé au Lait Aromatisé Cookies & Cream Starbucks  250 ml",
-    "ProductBarcode": "EAN_13:5711953118111",
+    "ProductBarcode": "EAN_13: 5711953118111",
     "Id": 0,
     "Description": "Frappuccino Café Glacé au Lait Aromatisé Cookies & Cream Starbucks  250 ml",
     "Price": 35.0,
@@ -2163,7 +2175,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Aromatisée à l'Extrait de Thé et au Jus de Citron d'Italie Bio San Pellegrino  25 cl",
-    "ProductBarcode": "EAN_13:8002270166648",
+    "ProductBarcode": "EAN_13: 8002270166648",
     "Id": 0,
     "Description": "Boisson Gazeuse Aromatisée à l'Extrait de Thé et au Jus de Citron d'Italie Bio San Pellegrino  25 cl",
     "Price": 9.15,
@@ -2174,7 +2186,7 @@
   },
   {
     "ProductName": "Ice Tea Citron Shaï  500 ml",
-    "ProductBarcode": "EAN_13:6111263750206",
+    "ProductBarcode": "EAN_13: 6111263750206",
     "Id": 0,
     "Description": "Ice Tea Citron Shaï  500 ml",
     "Price": 17.25,
@@ -2185,7 +2197,7 @@
   },
   {
     "ProductName": "Eau Minéral Mondariz 1L",
-    "ProductBarcode": "EAN_13:8412042502398",
+    "ProductBarcode": "EAN_13: 8412042502398",
     "Id": 0,
     "Description": "Eau Minéral Mondariz 1L",
     "Price": 5.72,
@@ -2196,7 +2208,7 @@
   },
   {
     "ProductName": "Eau Plate Prestige Contrex pet 1,5L",
-    "ProductBarcode": "EAN_13:3179730100001",
+    "ProductBarcode": "EAN_13: 3179730100001",
     "Id": 0,
     "Description": "Eau Plate Prestige Contrex pet 1,5L",
     "Price": 25.0,
@@ -2207,7 +2219,7 @@
   },
   {
     "ProductName": "Pack Fruits Secs 4 Produits",
-    "ProductBarcode": "EAN_13:pack-fruits-secs",
+    "ProductBarcode": "EAN_13: pack-fruits-secs",
     "Id": 0,
     "Description": "Pack Fruits Secs 4 Produits",
     "Price": 459.0,
@@ -2218,7 +2230,7 @@
   },
   {
     "ProductName": "Sirop de Menthe Verte 0% Sucre Teisseire 600ml",
-    "ProductBarcode": "EAN_13:3092718610258",
+    "ProductBarcode": "EAN_13: 3092718610258",
     "Id": 0,
     "Description": "Sirop de Menthe Verte 0% Sucre Teisseire 600ml",
     "Price": 90.0,
@@ -2229,7 +2241,7 @@
   },
   {
     "ProductName": "Eau Minéral Gazeuse VCH Catalan Barcalona 25 CL",
-    "ProductBarcode": "EAN_13:8410749001107",
+    "ProductBarcode": "EAN_13: 8410749001107",
     "Id": 0,
     "Description": "Eau Minéral Gazeuse VCH Catalan Barcalona 25 CL",
     "Price": 12.5,
@@ -2240,7 +2252,7 @@
   },
   {
     "ProductName": "Eau minérale gazeuse VCH Barcelona 1L",
-    "ProductBarcode": "EAN_13:591234123457",
+    "ProductBarcode": "EAN_13: 591234123457",
     "Id": 0,
     "Description": "Eau minérale gazeuse VCH Barcelona 1L",
     "Price": 19.08,
@@ -2251,7 +2263,7 @@
   },
   {
     "ProductName": "Meta Moon Hydration Drink Prime 500 ml",
-    "ProductBarcode": "EAN_13:850040427110",
+    "ProductBarcode": "EAN_13: 850040427110",
     "Id": 0,
     "Description": "Meta Moon Hydration Drink Prime 500 ml",
     "Price": 78.0,
@@ -2262,7 +2274,7 @@
   },
   {
     "ProductName": "Boisson Almond Breeze sans Sucre et Sans Gluten Blue Diamond 1L",
-    "ProductBarcode": "EAN_13:0041570144831",
+    "ProductBarcode": "EAN_13: 0041570144831",
     "Id": 0,
     "Description": "Boisson Almond Breeze sans Sucre et Sans Gluten Blue Diamond 1L",
     "Price": 47.0,
@@ -2273,7 +2285,7 @@
   },
   {
     "ProductName": "Boisson de Citronnade Pineapple Peach  Lemonade Calypso  473 ml",
-    "ProductBarcode": "EAN_13:007951184058",
+    "ProductBarcode": "EAN_13: 007951184058",
     "Id": 0,
     "Description": "Boisson de Citronnade Pineapple Peach  Lemonade Calypso  473 ml",
     "Price": 39.0,
@@ -2285,7 +2297,7 @@
   },
   {
     "ProductName": "Boisson de Citronnade Ocean Blue Calypso  473 ml",
-    "ProductBarcode": "EAN_13:00795811841010",
+    "ProductBarcode": "EAN_13: 00795811841010",
     "Id": 0,
     "Description": "Boisson de Citronnade Ocean Blue Calypso  473 ml",
     "Price": 39.0,
@@ -2297,7 +2309,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Bellini à la Pêche Blanche Cipriani  180ml",
-    "ProductBarcode": "EAN_13:8001620018941",
+    "ProductBarcode": "EAN_13: 8001620018941",
     "Id": 0,
     "Description": "Boisson Sans Alcool Bellini à la Pêche Blanche Cipriani  180ml",
     "Price": 24.15,
@@ -2308,7 +2320,7 @@
   },
   {
     "ProductName": "100% Pur Jus d'Orange Sélection Marrakech 20cl",
-    "ProductBarcode": "EAN_13:6111242923384",
+    "ProductBarcode": "EAN_13: 6111242923384",
     "Id": 0,
     "Description": "100% Pur Jus d'Orange Sélection Marrakech 20cl",
     "Price": 3.6,
@@ -2319,7 +2331,7 @@
   },
   {
     "ProductName": "Jus de Mangue des Iles Marrakech 1L",
-    "ProductBarcode": "EAN_13:6111242923652",
+    "ProductBarcode": "EAN_13: 6111242923652",
     "Id": 0,
     "Description": "Jus de Mangue des Iles Marrakech 1L",
     "Price": 14.85,
@@ -2330,7 +2342,7 @@
   },
   {
     "ProductName": "Jus Nectar Orange Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750010",
+    "ProductBarcode": "EAN_13: 6111251750010",
     "Id": 0,
     "Description": "Jus Nectar Orange Valencia 1L",
     "Price": 12.75,
@@ -2341,7 +2353,7 @@
   },
   {
     "ProductName": "Frappuccino Café Glacé au Lait Aromatisé au Vanille Starbucks  250 ml",
-    "ProductBarcode": "EAN_13:5711953077890",
+    "ProductBarcode": "EAN_13: 5711953077890",
     "Id": 0,
     "Description": "Frappuccino Café Glacé au Lait Aromatisé au Vanille Starbucks  250 ml",
     "Price": 34.4,
@@ -2352,7 +2364,7 @@
   },
   {
     "ProductName": "Frappuccino Moka Café Glacé au Lait Aromatisé au Chocolat Starbucks 250 ml",
-    "ProductBarcode": "EAN_13:5711953092398",
+    "ProductBarcode": "EAN_13: 5711953092398",
     "Id": 0,
     "Description": "Frappuccino Moka Café Glacé au Lait Aromatisé au Chocolat Starbucks 250 ml",
     "Price": 34.4,
@@ -2363,7 +2375,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Sidi Harazem 2x5L",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Sidi Harazem 2x5L",
     "Price": 26.66,
@@ -2374,7 +2386,7 @@
   },
   {
     "ProductName": "Nectar Canette Orange COMPAL 330ml",
-    "ProductBarcode": "EAN_13:5601151974391",
+    "ProductBarcode": "EAN_13: 5601151974391",
     "Id": 0,
     "Description": "Nectar Canette Orange COMPAL 330ml",
     "Price": 7.51,
@@ -2385,7 +2397,7 @@
   },
   {
     "ProductName": "Eau minéral naturelle Sidi Ali Kids Fraise 6x33cl",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau minéral naturelle Sidi Ali Kids Fraise 6x33cl",
     "Price": 17.5,
@@ -2397,7 +2409,7 @@
   },
   {
     "ProductName": "Jus Nectar Tropical Al Boustane 20cl",
-    "ProductBarcode": "EAN_13:6111179003953",
+    "ProductBarcode": "EAN_13: 6111179003953",
     "Id": 0,
     "Description": "Jus Nectar Tropical Al Boustane 20cl",
     "Price": 3.25,
@@ -2408,7 +2420,7 @@
   },
   {
     "ProductName": "Pulpo Cuisine Jus de Citron Vert limonino Polenghi 200Ml",
-    "ProductBarcode": "EAN_13:8031301883384",
+    "ProductBarcode": "EAN_13: 8031301883384",
     "Id": 0,
     "Description": "Pulpo Cuisine Jus de Citron Vert limonino Polenghi 200Ml",
     "Price": 14.34,
@@ -2419,7 +2431,7 @@
   },
   {
     "ProductName": "Douceur du matin Pur jus de 4 Fruits Tropicana 900ml",
-    "ProductBarcode": "EAN_13:3168930156802",
+    "ProductBarcode": "EAN_13: 3168930156802",
     "Id": 0,
     "Description": "Douceur du matin Pur jus de 4 Fruits Tropicana 900ml",
     "Price": 59.94,
@@ -2430,7 +2442,7 @@
   },
   {
     "ProductName": "Eau Plate Prestige Evian pet 50 cL",
-    "ProductBarcode": "EAN_13:3068320055008",
+    "ProductBarcode": "EAN_13: 3068320055008",
     "Id": 0,
     "Description": "Eau Plate Prestige Evian pet 50 cL",
     "Price": 14.72,
@@ -2441,7 +2453,7 @@
   },
   {
     "ProductName": "Yaourt Sport À Boire Protéiné 36g Vanille Chergui 450ml",
-    "ProductBarcode": "EAN_13:6111126005702",
+    "ProductBarcode": "EAN_13: 6111126005702",
     "Id": 0,
     "Description": "Yaourt Sport À Boire Protéiné 36g Vanille Chergui 450ml",
     "Price": 23.99,
@@ -2452,7 +2464,7 @@
   },
   {
     "ProductName": "Boisson Pétillant Aromatisée à l'Orange Chupa Chups 345 ml",
-    "ProductBarcode": "EAN_13:8801069402468",
+    "ProductBarcode": "EAN_13: 8801069402468",
     "Id": 0,
     "Description": "Boisson Pétillant Aromatisée à l'Orange Chupa Chups 345 ml",
     "Price": 30.0,
@@ -2463,7 +2475,7 @@
   },
   {
     "ProductName": "Boisson cocktail Rafraichissante Sans Sucre Ajouté Citronnade Andros 1L",
-    "ProductBarcode": "EAN_13:3608580941446",
+    "ProductBarcode": "EAN_13: 3608580941446",
     "Id": 0,
     "Description": "Boisson cocktail Rafraichissante Sans Sucre Ajouté Citronnade Andros 1L",
     "Price": 53.04,
@@ -2474,7 +2486,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse aux Extraits Naturels de Gingembre Canada Dry  330 ml",
-    "ProductBarcode": "EAN_13:3124480000347",
+    "ProductBarcode": "EAN_13: 3124480000347",
     "Id": 0,
     "Description": "Boisson Gazeuse aux Extraits Naturels de Gingembre Canada Dry  330 ml",
     "Price": 16.95,
@@ -2485,7 +2497,7 @@
   },
   {
     "ProductName": "Orange  Schweppes Canette 33 cl",
-    "ProductBarcode": "EAN_13:5449000046444",
+    "ProductBarcode": "EAN_13: 5449000046444",
     "Id": 0,
     "Description": "Orange  Schweppes Canette 33 cl",
     "Price": 8.6,
@@ -2496,7 +2508,7 @@
   },
   {
     "ProductName": "Frappuccino Café Glacé au Lait Starbucks  250 ml",
-    "ProductBarcode": "EAN_13:5711953024290",
+    "ProductBarcode": "EAN_13: 5711953024290",
     "Id": 0,
     "Description": "Frappuccino Café Glacé au Lait Starbucks  250 ml",
     "Price": 34.4,
@@ -2507,7 +2519,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse  Momenti Aromatisée Grenade Cassis San Pellegrino 33cl",
-    "ProductBarcode": "EAN_13:8002270686672",
+    "ProductBarcode": "EAN_13: 8002270686672",
     "Id": 0,
     "Description": "Boisson Gazeuse  Momenti Aromatisée Grenade Cassis San Pellegrino 33cl",
     "Price": 8.0,
@@ -2518,7 +2530,7 @@
   },
   {
     "ProductName": "Schweppes Cola 33cl",
-    "ProductBarcode": "EAN_13:8433185956842",
+    "ProductBarcode": "EAN_13: 8433185956842",
     "Id": 0,
     "Description": "Schweppes Cola 33cl",
     "Price": 16.25,
@@ -2529,7 +2541,7 @@
   },
   {
     "ProductName": "100 % Pur Jus Carotte Naturellement Riche En Vitamine \"A \" Casino  1L",
-    "ProductBarcode": "EAN_13:3222473274499",
+    "ProductBarcode": "EAN_13: 3222473274499",
     "Id": 0,
     "Description": "100 % Pur Jus Carotte Naturellement Riche En Vitamine \"A \" Casino  1L",
     "Price": 22.45,
@@ -2540,7 +2552,7 @@
   },
   {
     "ProductName": "Jus Nectar Ananas Al Boustane 20cl",
-    "ProductBarcode": "EAN_13:6111179003946",
+    "ProductBarcode": "EAN_13: 6111179003946",
     "Id": 0,
     "Description": "Jus Nectar Ananas Al Boustane 20cl",
     "Price": 3.25,
@@ -2551,7 +2563,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Fanta Orange 33Cl",
-    "ProductBarcode": "EAN_13:87126624",
+    "ProductBarcode": "EAN_13: 87126624",
     "Id": 0,
     "Description": "Boisson Gazeuse Fanta Orange 33Cl",
     "Price": 6.46,
@@ -2562,7 +2574,7 @@
   },
   {
     "ProductName": "Eau Plate Prestige Evian pet 33 cL",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau Plate Prestige Evian pet 33 cL",
     "Price": 11.49,
@@ -2573,7 +2585,7 @@
   },
   {
     "ProductName": "Eau Minéral Gazeuse VCH Catalan barcalona 50 cL",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau Minéral Gazeuse VCH Catalan barcalona 50 cL",
     "Price": 14.34,
@@ -2584,7 +2596,7 @@
   },
   {
     "ProductName": "Yaourt Sport À Boire Protéiné 36g Mangue Chergui 450ml",
-    "ProductBarcode": "EAN_13:6111126005696",
+    "ProductBarcode": "EAN_13: 6111126005696",
     "Id": 0,
     "Description": "Yaourt Sport À Boire Protéiné 36g Mangue Chergui 450ml",
     "Price": 23.99,
@@ -2595,7 +2607,7 @@
   },
   {
     "ProductName": "Boisson Almond Breeze Zéro Bio , Sans Sucre et Sans Gluten Blue Diamond 1L",
-    "ProductBarcode": "EAN_13:0041570112731",
+    "ProductBarcode": "EAN_13: 0041570112731",
     "Id": 0,
     "Description": "Boisson Almond Breeze Zéro Bio , Sans Sucre et Sans Gluten Blue Diamond 1L",
     "Price": 47.0,
@@ -2606,7 +2618,7 @@
   },
   {
     "ProductName": "Jus Pulpy Orange Cappy 1L",
-    "ProductBarcode": "EAN_13:5449000147417",
+    "ProductBarcode": "EAN_13: 5449000147417",
     "Id": 0,
     "Description": "Jus Pulpy Orange Cappy 1L",
     "Price": 10.56,
@@ -2617,7 +2629,7 @@
   },
   {
     "ProductName": "Boisson énergisante Monster Energy 33cl",
-    "ProductBarcode": "EAN_13:5060337505802",
+    "ProductBarcode": "EAN_13: 5060337505802",
     "Id": 0,
     "Description": "Boisson énergisante Monster Energy 33cl",
     "Price": 29.0,
@@ -2628,7 +2640,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Aromatisée Fraise 411 330 ml",
-    "ProductBarcode": "EAN_13:6339261999322",
+    "ProductBarcode": "EAN_13: 6339261999322",
     "Id": 0,
     "Description": "Boisson Gazeuse Aromatisée Fraise 411 330 ml",
     "Price": 24.0,
@@ -2640,7 +2652,7 @@
   },
   {
     "ProductName": "Jus de Pêche Don Simon  1,5L",
-    "ProductBarcode": "EAN_13:8410261653013",
+    "ProductBarcode": "EAN_13: 8410261653013",
     "Id": 0,
     "Description": "Jus de Pêche Don Simon  1,5L",
     "Price": 18.98,
@@ -2651,7 +2663,7 @@
   },
   {
     "ProductName": "Boisson cocktail Rafraichissante Sans Sucre Ajouté Mojito Andros 1L",
-    "ProductBarcode": "EAN_13:3608580941439",
+    "ProductBarcode": "EAN_13: 3608580941439",
     "Id": 0,
     "Description": "Boisson cocktail Rafraichissante Sans Sucre Ajouté Mojito Andros 1L",
     "Price": 53.04,
@@ -2662,7 +2674,7 @@
   },
   {
     "ProductName": "Jus Nectar Mangue Valencia  1L",
-    "ProductBarcode": "EAN_13:6111251750041",
+    "ProductBarcode": "EAN_13: 6111251750041",
     "Id": 0,
     "Description": "Jus Nectar Mangue Valencia  1L",
     "Price": 21.54,
@@ -2673,7 +2685,7 @@
   },
   {
     "ProductName": "Frappuccino Café Glacé au Lait Aromatisé au Caramel Starbucks  250 ml",
-    "ProductBarcode": "EAN_13:5711953092374",
+    "ProductBarcode": "EAN_13: 5711953092374",
     "Id": 0,
     "Description": "Frappuccino Café Glacé au Lait Aromatisé au Caramel Starbucks  250 ml",
     "Price": 34.4,
@@ -2684,7 +2696,7 @@
   },
   {
     "ProductName": "Sirop de Vanille Classique  DaVinci Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:9556592513278",
+    "ProductBarcode": "EAN_13: 9556592513278",
     "Id": 0,
     "Description": "Sirop de Vanille Classique  DaVinci Gourmet 750 ml",
     "Price": 141.8,
@@ -2695,7 +2707,7 @@
   },
   {
     "ProductName": "Sirop de Super Berries  DaVinci  Gourmet 750ml",
-    "ProductBarcode": "EAN_13:9556592513219",
+    "ProductBarcode": "EAN_13: 9556592513219",
     "Id": 0,
     "Description": "Sirop de Super Berries  DaVinci  Gourmet 750ml",
     "Price": 141.5,
@@ -2706,7 +2718,7 @@
   },
   {
     "ProductName": "Sirop Aromatisé Blue Sky DaVinci Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:9556592513561",
+    "ProductBarcode": "EAN_13: 9556592513561",
     "Id": 0,
     "Description": "Sirop Aromatisé Blue Sky DaVinci Gourmet 750 ml",
     "Price": 141.6,
@@ -2717,7 +2729,7 @@
   },
   {
     "ProductName": "Mojito Schweppes 33 cl",
-    "ProductBarcode": "EAN_13:5903111335533",
+    "ProductBarcode": "EAN_13: 5903111335533",
     "Id": 0,
     "Description": "Mojito Schweppes 33 cl",
     "Price": 12.5,
@@ -2728,7 +2740,7 @@
   },
   {
     "ProductName": "Mocktail Plat  Sans Alcool (Halal) Night Orient Caipirinha 70 cl",
-    "ProductBarcode": "EAN_13:5425030341940",
+    "ProductBarcode": "EAN_13: 5425030341940",
     "Id": 0,
     "Description": "Mocktail Plat  Sans Alcool (Halal) Night Orient Caipirinha 70 cl",
     "Price": 104.0,
@@ -2739,7 +2751,7 @@
   },
   {
     "ProductName": "Vin de Raisin Blanc Pétillant Sa(Halal) Donelli  750ml",
-    "ProductBarcode": "EAN_13:8008920654411",
+    "ProductBarcode": "EAN_13: 8008920654411",
     "Id": 0,
     "Description": "Vin de Raisin Blanc Pétillant Sa(Halal) Donelli  750ml",
     "Price": 132.5,
@@ -2750,7 +2762,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle Ain Saiss 4 x 2L",
-    "ProductBarcode": "EAN_13:6111128001030",
+    "ProductBarcode": "EAN_13: 6111128001030",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Ain Saiss 4 x 2L",
     "Price": 25.0,
@@ -2762,7 +2774,7 @@
   },
   {
     "ProductName": "Laits Aromatisés au Chocolat Energy ColaCao 188 ml",
-    "ProductBarcode": "EAN_13:8410128191702",
+    "ProductBarcode": "EAN_13: 8410128191702",
     "Id": 0,
     "Description": "Laits Aromatisés au Chocolat Energy ColaCao 188 ml",
     "Price": 11.0,
@@ -2773,7 +2785,7 @@
   },
   {
     "ProductName": "Tonica Original Schweppes 33 cl",
-    "ProductBarcode": "EAN_13:8414100317357",
+    "ProductBarcode": "EAN_13: 8414100317357",
     "Id": 0,
     "Description": "Tonica Original Schweppes 33 cl",
     "Price": 12.89,
@@ -2784,7 +2796,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturellement Gazeuse Oulmes verre 75cl",
-    "ProductBarcode": "EAN_13:6111035002137",
+    "ProductBarcode": "EAN_13: 6111035002137",
     "Id": 0,
     "Description": "Eau Minérale Naturellement Gazeuse Oulmes verre 75cl",
     "Price": 12.76,
@@ -2796,7 +2808,7 @@
   },
   {
     "ProductName": "Jus Nectar Pêche Al Boustane 20cl",
-    "ProductBarcode": "EAN_13:6111179001942",
+    "ProductBarcode": "EAN_13: 6111179001942",
     "Id": 0,
     "Description": "Jus Nectar Pêche Al Boustane 20cl",
     "Price": 3.25,
@@ -2807,7 +2819,7 @@
   },
   {
     "ProductName": "Sirop de Fraise Teisseire 600ml",
-    "ProductBarcode": "EAN_13:3092718586775",
+    "ProductBarcode": "EAN_13: 3092718586775",
     "Id": 0,
     "Description": "Sirop de Fraise Teisseire 600ml",
     "Price": 68.87,
@@ -2818,7 +2830,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Fanta Pomme 1L",
-    "ProductBarcode": "EAN_13:5449000037947",
+    "ProductBarcode": "EAN_13: 5449000037947",
     "Id": 0,
     "Description": "Boisson Gazeuse Fanta Pomme 1L",
     "Price": 6.78,
@@ -2829,7 +2841,7 @@
   },
   {
     "ProductName": "Poms Canette 33cl",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Poms Canette 33cl",
     "Price": 8.85,
@@ -2840,7 +2852,7 @@
   },
   {
     "ProductName": "Eau Minéral Mondariz 33 cL",
-    "ProductBarcode": "EAN_13:8412042502381",
+    "ProductBarcode": "EAN_13: 8412042502381",
     "Id": 0,
     "Description": "Eau Minéral Mondariz 33 cL",
     "Price": 3.0,
@@ -2851,7 +2863,7 @@
   },
   {
     "ProductName": "Boisson Almond Breeze Original Bio et Sans Gluten Blue Diamond 1L",
-    "ProductBarcode": "EAN_13:0041570112717",
+    "ProductBarcode": "EAN_13: 0041570112717",
     "Id": 0,
     "Description": "Boisson Almond Breeze Original Bio et Sans Gluten Blue Diamond 1L",
     "Price": 47.0,
@@ -2862,7 +2874,7 @@
   },
   {
     "ProductName": "Blanc de Blanc Bio et Sans Alcool Le Petit Béret 75 cl",
-    "ProductBarcode": "EAN_13:3760251402134",
+    "ProductBarcode": "EAN_13: 3760251402134",
     "Id": 0,
     "Description": "Blanc de Blanc Bio et Sans Alcool Le Petit Béret 75 cl",
     "Price": 195.0,
@@ -2874,7 +2886,7 @@
   },
   {
     "ProductName": "Chardonnay Bio Sans Alcool Le Petit Béret  75 cl",
-    "ProductBarcode": "EAN_13:3760251401281",
+    "ProductBarcode": "EAN_13: 3760251401281",
     "Id": 0,
     "Description": "Chardonnay Bio Sans Alcool Le Petit Béret  75 cl",
     "Price": 174.65,
@@ -2885,7 +2897,7 @@
   },
   {
     "ProductName": "Boisson Fruit du Monde Raisin Blanc Aloe Vera  Tymbark  250 ml",
-    "ProductBarcode": "EAN_13:5900334000873",
+    "ProductBarcode": "EAN_13: 5900334000873",
     "Id": 0,
     "Description": "Boisson Fruit du Monde Raisin Blanc Aloe Vera  Tymbark  250 ml",
     "Price": 11.0,
@@ -2897,7 +2909,7 @@
   },
   {
     "ProductName": "Boisson Lactée au Chocolat Maltesers  350 ml",
-    "ProductBarcode": "EAN_13:5056357902844",
+    "ProductBarcode": "EAN_13: 5056357902844",
     "Id": 0,
     "Description": "Boisson Lactée au Chocolat Maltesers  350 ml",
     "Price": 33.8,
@@ -2908,7 +2920,7 @@
   },
   {
     "ProductName": "Pinot Noir Bio et Sans Alcool  Le Petit Béret 75 cl",
-    "ProductBarcode": "EAN_13:3760251400093",
+    "ProductBarcode": "EAN_13: 3760251400093",
     "Id": 0,
     "Description": "Pinot Noir Bio et Sans Alcool  Le Petit Béret 75 cl",
     "Price": 174.65,
@@ -2920,7 +2932,7 @@
   },
   {
     "ProductName": "Eau Minérale Gazéifiée en Verre Aïn Saïss 75cl",
-    "ProductBarcode": "EAN_13:6111128000750",
+    "ProductBarcode": "EAN_13: 6111128000750",
     "Id": 0,
     "Description": "Eau Minérale Gazéifiée en Verre Aïn Saïss 75cl",
     "Price": 11.7,
@@ -2931,7 +2943,7 @@
   },
   {
     "ProductName": "Citron Cuisine Bio Bjorg  200 ml",
-    "ProductBarcode": "EAN_13:3229820764559",
+    "ProductBarcode": "EAN_13: 3229820764559",
     "Id": 0,
     "Description": "Citron Cuisine Bio Bjorg  200 ml",
     "Price": 23.95,
@@ -2942,7 +2954,7 @@
   },
   {
     "ProductName": "Jus de Nectar Pêche Vita Kids Marrakech  20cl",
-    "ProductBarcode": "EAN_13:6111242923867",
+    "ProductBarcode": "EAN_13: 6111242923867",
     "Id": 0,
     "Description": "Jus de Nectar Pêche Vita Kids Marrakech  20cl",
     "Price": 2.5,
@@ -2953,7 +2965,7 @@
   },
   {
     "ProductName": "Jus de Nectar Orange Vita Kids Marrakech  20cl",
-    "ProductBarcode": "EAN_13:6111242923829",
+    "ProductBarcode": "EAN_13: 6111242923829",
     "Id": 0,
     "Description": "Jus de Nectar Orange Vita Kids Marrakech  20cl",
     "Price": 2.5,
@@ -2964,7 +2976,7 @@
   },
   {
     "ProductName": "Jus de Nectar Multifruits Vita Kids Marrakech  20cl",
-    "ProductBarcode": "EAN_13:6111242923850",
+    "ProductBarcode": "EAN_13: 6111242923850",
     "Id": 0,
     "Description": "Jus de Nectar Multifruits Vita Kids Marrakech  20cl",
     "Price": 2.5,
@@ -2975,7 +2987,7 @@
   },
   {
     "ProductName": "Jus de Nectar Mangue Vita Kids Marrakech  20cl",
-    "ProductBarcode": "EAN_13:6111242923843",
+    "ProductBarcode": "EAN_13: 6111242923843",
     "Id": 0,
     "Description": "Jus de Nectar Mangue Vita Kids Marrakech  20cl",
     "Price": 1.8,
@@ -2986,7 +2998,7 @@
   },
   {
     "ProductName": "Jus de Piña Colada  Marrakech 1L",
-    "ProductBarcode": "EAN_13:6111248920112",
+    "ProductBarcode": "EAN_13: 6111248920112",
     "Id": 0,
     "Description": "Jus de Piña Colada  Marrakech 1L",
     "Price": 12.59,
@@ -2997,7 +3009,7 @@
   },
   {
     "ProductName": "Jus de Pêche de la Méditerranée  Marrakech 1L",
-    "ProductBarcode": "EAN_13:6111242923669",
+    "ProductBarcode": "EAN_13: 6111242923669",
     "Id": 0,
     "Description": "Jus de Pêche de la Méditerranée  Marrakech 1L",
     "Price": 12.59,
@@ -3008,7 +3020,7 @@
   },
   {
     "ProductName": "100% Pur Jus d'Orange Sélection Marrakech  1L",
-    "ProductBarcode": "EAN_13:6111242923577",
+    "ProductBarcode": "EAN_13: 6111242923577",
     "Id": 0,
     "Description": "100% Pur Jus d'Orange Sélection Marrakech  1L",
     "Price": 17.1,
@@ -3019,7 +3031,7 @@
   },
   {
     "ProductName": "Jus de Mangue Sans Sucres Ajoutés Don Simon  1,5L",
-    "ProductBarcode": "EAN_13:8410261657820",
+    "ProductBarcode": "EAN_13: 8410261657820",
     "Id": 0,
     "Description": "Jus de Mangue Sans Sucres Ajoutés Don Simon  1,5L",
     "Price": 18.35,
@@ -3030,7 +3042,7 @@
   },
   {
     "ProductName": "Nectar D'Ananas Sans Sucre Ajouté Don Simon 1,5L",
-    "ProductBarcode": "EAN_13:8410261652016",
+    "ProductBarcode": "EAN_13: 8410261652016",
     "Id": 0,
     "Description": "Nectar D'Ananas Sans Sucre Ajouté Don Simon 1,5L",
     "Price": 19.9,
@@ -3041,7 +3053,7 @@
   },
   {
     "ProductName": "Jus de Fraise et Fruits Rouges Essentiel Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750997",
+    "ProductBarcode": "EAN_13: 6111251750997",
     "Id": 0,
     "Description": "Jus de Fraise et Fruits Rouges Essentiel Valencia 1L",
     "Price": 21.35,
@@ -3052,7 +3064,7 @@
   },
   {
     "ProductName": "Jus Nectar Panaché 7 Fruits Valencia  1L",
-    "ProductBarcode": "EAN_13:6111251750058",
+    "ProductBarcode": "EAN_13: 6111251750058",
     "Id": 0,
     "Description": "Jus Nectar Panaché 7 Fruits Valencia  1L",
     "Price": 12.59,
@@ -3063,7 +3075,7 @@
   },
   {
     "ProductName": "Jus Nectar Orange et Mangue Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750188",
+    "ProductBarcode": "EAN_13: 6111251750188",
     "Id": 0,
     "Description": "Jus Nectar Orange et Mangue Valencia 1L",
     "Price": 12.59,
@@ -3074,7 +3086,7 @@
   },
   {
     "ProductName": "Ice Tea Goût Pêche Arizona  500 ml",
-    "ProductBarcode": "EAN_13:0613008730710",
+    "ProductBarcode": "EAN_13: 0613008730710",
     "Id": 0,
     "Description": "Ice Tea Goût Pêche Arizona  500 ml",
     "Price": 29.85,
@@ -3085,7 +3097,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse  Momenti Aromatisée Clémentine Pêche  San Pellegrino 33cl",
-    "ProductBarcode": "EAN_13:8002270666667",
+    "ProductBarcode": "EAN_13: 8002270666667",
     "Id": 0,
     "Description": "Boisson Gazeuse  Momenti Aromatisée Clémentine Pêche  San Pellegrino 33cl",
     "Price": 9.15,
@@ -3096,7 +3108,7 @@
   },
   {
     "ProductName": "Sirop Aromatisé Noisette  DaVinci Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:9552592513585",
+    "ProductBarcode": "EAN_13: 9552592513585",
     "Id": 0,
     "Description": "Sirop Aromatisé Noisette  DaVinci Gourmet 750 ml",
     "Price": 90.0,
@@ -3107,7 +3119,7 @@
   },
   {
     "ProductName": "Sirop Aromatisé Menta Cubano  DaVinci Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:9556592513196",
+    "ProductBarcode": "EAN_13: 9556592513196",
     "Id": 0,
     "Description": "Sirop Aromatisé Menta Cubano  DaVinci Gourmet 750 ml",
     "Price": 141.0,
@@ -3118,7 +3130,7 @@
   },
   {
     "ProductName": "Sirop de Fraise Classique DaVinci  Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:955692529128",
+    "ProductBarcode": "EAN_13: 955692529128",
     "Id": 0,
     "Description": "Sirop de Fraise Classique DaVinci  Gourmet 750 ml",
     "Price": 90.0,
@@ -3129,7 +3141,7 @@
   },
   {
     "ProductName": "Sirop Classique Caramel DaVinci  Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:9556592513219",
+    "ProductBarcode": "EAN_13: 9556592513219",
     "Id": 0,
     "Description": "Sirop Classique Caramel DaVinci  Gourmet 750 ml",
     "Price": 141.6,
@@ -3140,7 +3152,7 @@
   },
   {
     "ProductName": "Eau Minéral Mondariz Verre 75cl",
-    "ProductBarcode": "EAN_13:8412042502084",
+    "ProductBarcode": "EAN_13: 8412042502084",
     "Id": 0,
     "Description": "Eau Minéral Mondariz Verre 75cl",
     "Price": 15.0,
@@ -3151,7 +3163,7 @@
   },
   {
     "ProductName": "Jus Nectar Orange Al Boustane 20cl",
-    "ProductBarcode": "EAN_13:6111179000174",
+    "ProductBarcode": "EAN_13: 6111179000174",
     "Id": 0,
     "Description": "Jus Nectar Orange Al Boustane 20cl",
     "Price": 3.0,
@@ -3162,7 +3174,7 @@
   },
   {
     "ProductName": "Eau Minérale Naturelle  Arôme  De Pêche Bio  Vittel 1L",
-    "ProductBarcode": "EAN_13:7613036732192",
+    "ProductBarcode": "EAN_13: 7613036732192",
     "Id": 0,
     "Description": "Eau Minérale Naturelle  Arôme  De Pêche Bio  Vittel 1L",
     "Price": 17.94,
@@ -3173,7 +3185,7 @@
   },
   {
     "ProductName": "Boisson Riz Nature Sans Sucre Sans Glutten Bio EcoMill 1L",
-    "ProductBarcode": "EAN_13:8428532192505",
+    "ProductBarcode": "EAN_13: 8428532192505",
     "Id": 0,
     "Description": "Boisson Riz Nature Sans Sucre Sans Glutten Bio EcoMill 1L",
     "Price": 54.0,
@@ -3184,7 +3196,7 @@
   },
   {
     "ProductName": "Coca Cola Light 50cl",
-    "ProductBarcode": "EAN_13:54492387",
+    "ProductBarcode": "EAN_13: 54492387",
     "Id": 0,
     "Description": "Coca Cola Light 50cl",
     "Price": 5.5,
@@ -3195,7 +3207,7 @@
   },
   {
     "ProductName": "Eau de Table Aquafina 2 x 5L",
-    "ProductBarcode": "EAN_13:",
+    "ProductBarcode": "EAN_13: ",
     "Id": 0,
     "Description": "Eau de Table Aquafina 2 x 5L",
     "Price": 25.0,
@@ -3206,7 +3218,7 @@
   },
   {
     "ProductName": "Sirop Parfum Flavour Grenadine Teisseire 0% Sucre 600ml",
-    "ProductBarcode": "EAN_13:3092718637927",
+    "ProductBarcode": "EAN_13: 3092718637927",
     "Id": 0,
     "Description": "Sirop Parfum Flavour Grenadine Teisseire 0% Sucre 600ml",
     "Price": 90.0,
@@ -3217,7 +3229,7 @@
   },
   {
     "ProductName": "Poms 1.3L",
-    "ProductBarcode": "EAN_13:5449000036964",
+    "ProductBarcode": "EAN_13: 5449000036964",
     "Id": 0,
     "Description": "Poms 1.3L",
     "Price": 14.1,
@@ -3228,7 +3240,7 @@
   },
   {
     "ProductName": "Fatna Grenade 25 CL",
-    "ProductBarcode": "EAN_13:5449000313324",
+    "ProductBarcode": "EAN_13: 5449000313324",
     "Id": 0,
     "Description": "Fatna Grenade 25 CL",
     "Price": 4.8,
@@ -3239,7 +3251,7 @@
   },
   {
     "ProductName": "Sprite 25 CL",
-    "ProductBarcode": "EAN_13:5449000000729",
+    "ProductBarcode": "EAN_13: 5449000000729",
     "Id": 0,
     "Description": "Sprite 25 CL",
     "Price": 4.8,
@@ -3250,7 +3262,7 @@
   },
   {
     "ProductName": "Boisson de Citronnade Kiwi Lemonade Calypso  473 ml",
-    "ProductBarcode": "EAN_13:0079581184096",
+    "ProductBarcode": "EAN_13: 0079581184096",
     "Id": 0,
     "Description": "Boisson de Citronnade Kiwi Lemonade Calypso  473 ml",
     "Price": 39.0,
@@ -3262,7 +3274,7 @@
   },
   {
     "ProductName": "Boisson Fruit du Monde Pomme & Kiwi  Tymbark  250 ml",
-    "ProductBarcode": "EAN_13:5900334010544",
+    "ProductBarcode": "EAN_13: 5900334010544",
     "Id": 0,
     "Description": "Boisson Fruit du Monde Pomme & Kiwi  Tymbark  250 ml",
     "Price": 11.0,
@@ -3274,7 +3286,7 @@
   },
   {
     "ProductName": "Boisson Fruit du Monde Mangue Menthe  Tymbark  250 ml",
-    "ProductBarcode": "EAN_13:5900334015747",
+    "ProductBarcode": "EAN_13: 5900334015747",
     "Id": 0,
     "Description": "Boisson Fruit du Monde Mangue Menthe  Tymbark  250 ml",
     "Price": 11.0,
@@ -3286,7 +3298,7 @@
   },
   {
     "ProductName": "Boisson Fruit du Monde Jus de Fruits Aloe Vera Tymbark 1L",
-    "ProductBarcode": "EAN_13:5900334013118",
+    "ProductBarcode": "EAN_13: 5900334013118",
     "Id": 0,
     "Description": "Boisson Fruit du Monde Jus de Fruits Aloe Vera Tymbark 1L",
     "Price": 18.5,
@@ -3297,7 +3309,7 @@
   },
   {
     "ProductName": "Sirop de Menthe Verte Moulin de Valdonne   70 cl",
-    "ProductBarcode": "EAN_13:3272030001235",
+    "ProductBarcode": "EAN_13: 3272030001235",
     "Id": 0,
     "Description": "Sirop de Menthe Verte Moulin de Valdonne   70 cl",
     "Price": 40.75,
@@ -3308,7 +3320,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Pastèque  Mr. Basil  250 ml",
-    "ProductBarcode": "EAN_13:5060401973445",
+    "ProductBarcode": "EAN_13: 5060401973445",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Pastèque  Mr. Basil  250 ml",
     "Price": 15.6,
@@ -3319,7 +3331,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Mangue Mr. Basil  290 ml",
-    "ProductBarcode": "EAN_13:5060401970284",
+    "ProductBarcode": "EAN_13: 5060401970284",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Mangue Mr. Basil  290 ml",
     "Price": 21.0,
@@ -3331,7 +3343,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Ananas Mr. Basil  290 ml",
-    "ProductBarcode": "EAN_13:5060401970277",
+    "ProductBarcode": "EAN_13: 5060401970277",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Ananas Mr. Basil  290 ml",
     "Price": 21.0,
@@ -3343,7 +3355,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Aromatisée Kiwi & Pomme 411 330 ml",
-    "ProductBarcode": "EAN_13:9501467324414",
+    "ProductBarcode": "EAN_13: 9501467324414",
     "Id": 0,
     "Description": "Boisson Gazeuse Aromatisée Kiwi & Pomme 411 330 ml",
     "Price": 24.0,
@@ -3355,7 +3367,7 @@
   },
   {
     "ProductName": "Boisson Lactée au Chocolat et Caramel Twix  350 ml",
-    "ProductBarcode": "EAN_13:5060402902130",
+    "ProductBarcode": "EAN_13: 5060402902130",
     "Id": 0,
     "Description": "Boisson Lactée au Chocolat et Caramel Twix  350 ml",
     "Price": 33.8,
@@ -3366,7 +3378,7 @@
   },
   {
     "ProductName": "Lipton Ice Tea Saveur Framboise 500ml",
-    "ProductBarcode": "EAN_13:3502110010674",
+    "ProductBarcode": "EAN_13: 3502110010674",
     "Id": 0,
     "Description": "Lipton Ice Tea Saveur Framboise 500ml",
     "Price": 26.0,
@@ -3377,7 +3389,7 @@
   },
   {
     "ProductName": "Boisson Jus 100% Rafraichissante Sans Alcool de Pommes Pressées Andros 250 ml",
-    "ProductBarcode": "EAN_13:3608580787556",
+    "ProductBarcode": "EAN_13: 3608580787556",
     "Id": 0,
     "Description": "Boisson Jus 100% Rafraichissante Sans Alcool de Pommes Pressées Andros 250 ml",
     "Price": 17.2,
@@ -3388,7 +3400,7 @@
   },
   {
     "ProductName": "Eau Tonique Harry's Indian Cipriani  200ml",
-    "ProductBarcode": "EAN_13:8005016380407",
+    "ProductBarcode": "EAN_13: 8005016380407",
     "Id": 0,
     "Description": "Eau Tonique Harry's Indian Cipriani  200ml",
     "Price": 19.5,
@@ -3399,7 +3411,7 @@
   },
   {
     "ProductName": "Jus de Nectar Ananas Vita Kids Marrakech  20cl",
-    "ProductBarcode": "EAN_13:6111242923836",
+    "ProductBarcode": "EAN_13: 6111242923836",
     "Id": 0,
     "Description": "Jus de Nectar Ananas Vita Kids Marrakech  20cl",
     "Price": 2.5,
@@ -3410,7 +3422,7 @@
   },
   {
     "ProductName": "Jus de Nectar Orange & Fleur d'Oranger Marrakech 1L",
-    "ProductBarcode": "EAN_13:6111242923706",
+    "ProductBarcode": "EAN_13: 6111242923706",
     "Id": 0,
     "Description": "Jus de Nectar Orange & Fleur d'Oranger Marrakech 1L",
     "Price": 14.85,
@@ -3421,7 +3433,7 @@
   },
   {
     "ProductName": "Jus Cocktail Tropical Marrakech 1L",
-    "ProductBarcode": "EAN_13:6111242923676",
+    "ProductBarcode": "EAN_13: 6111242923676",
     "Id": 0,
     "Description": "Jus Cocktail Tropical Marrakech 1L",
     "Price": 12.07,
@@ -3432,7 +3444,7 @@
   },
   {
     "ProductName": "Jus d'Ananas Pressés Sans Sucre Ajouté Andros 1L",
-    "ProductBarcode": "EAN_13:3608580951933",
+    "ProductBarcode": "EAN_13: 3608580951933",
     "Id": 0,
     "Description": "Jus d'Ananas Pressés Sans Sucre Ajouté Andros 1L",
     "Price": 78.15,
@@ -3443,7 +3455,7 @@
   },
   {
     "ProductName": "Boisson Energétique Sans Sucre Black Energy  250 ml",
-    "ProductBarcode": "EAN_13:5900552021865",
+    "ProductBarcode": "EAN_13: 5900552021865",
     "Id": 0,
     "Description": "Boisson Energétique Sans Sucre Black Energy  250 ml",
     "Price": 15.0,
@@ -3454,7 +3466,7 @@
   },
   {
     "ProductName": "7 Up  1L",
-    "ProductBarcode": "EAN_13:6111252420226",
+    "ProductBarcode": "EAN_13: 6111252420226",
     "Id": 0,
     "Description": "7 Up  1L",
     "Price": 7.5,
@@ -3465,7 +3477,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Orange Mirinda 33 cl",
-    "ProductBarcode": "EAN_13:6111252420400",
+    "ProductBarcode": "EAN_13: 6111252420400",
     "Id": 0,
     "Description": "Boisson Gazeuse Orange Mirinda 33 cl",
     "Price": 5.3,
@@ -3476,7 +3488,7 @@
   },
   {
     "ProductName": "Evervess Tonic Canette Pepsi 330 ml",
-    "ProductBarcode": "EAN_13:6111252421100",
+    "ProductBarcode": "EAN_13: 6111252421100",
     "Id": 0,
     "Description": "Evervess Tonic Canette Pepsi 330 ml",
     "Price": 7.5,
@@ -3487,7 +3499,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Aromatisée à l'Extrait de Thé et au Jus de Pêche d'Italie Bio San Pellegrino  25 cl",
-    "ProductBarcode": "EAN_13:8002270186622",
+    "ProductBarcode": "EAN_13: 8002270186622",
     "Id": 0,
     "Description": "Boisson Gazeuse Aromatisée à l'Extrait de Thé et au Jus de Pêche d'Italie Bio San Pellegrino  25 cl",
     "Price": 9.15,
@@ -3498,7 +3510,7 @@
   },
   {
     "ProductName": "Ice Tea Pêche  Shaï  500 ml",
-    "ProductBarcode": "EAN_13:6111263750183",
+    "ProductBarcode": "EAN_13: 6111263750183",
     "Id": 0,
     "Description": "Ice Tea Pêche  Shaï  500 ml",
     "Price": 17.25,
@@ -3509,7 +3521,7 @@
   },
   {
     "ProductName": "Nectar Fruit de la Passion Compal  1L",
-    "ProductBarcode": "EAN_13:5601151543450",
+    "ProductBarcode": "EAN_13: 5601151543450",
     "Id": 0,
     "Description": "Nectar Fruit de la Passion Compal  1L",
     "Price": 28.95,
@@ -3520,7 +3532,7 @@
   },
   {
     "ProductName": "Boisson Energétique Original Rock Star  500 ml",
-    "ProductBarcode": "EAN_13:8410409012498",
+    "ProductBarcode": "EAN_13: 8410409012498",
     "Id": 0,
     "Description": "Boisson Energétique Original Rock Star  500 ml",
     "Price": 23.5,
@@ -3531,7 +3543,7 @@
   },
   {
     "ProductName": "Boisson chocolatée Original Sans Sucre & Sans Gluten Cacaolat  1L",
-    "ProductBarcode": "EAN_13:8412700720096",
+    "ProductBarcode": "EAN_13: 8412700720096",
     "Id": 0,
     "Description": "Boisson chocolatée Original Sans Sucre & Sans Gluten Cacaolat  1L",
     "Price": 42.0,
@@ -3542,7 +3554,7 @@
   },
   {
     "ProductName": "Nectar Canette Multi fruits COMPAL 330ml",
-    "ProductBarcode": "EAN_13:5601151974377",
+    "ProductBarcode": "EAN_13: 5601151974377",
     "Id": 0,
     "Description": "Nectar Canette Multi fruits COMPAL 330ml",
     "Price": 7.51,
@@ -3553,7 +3565,7 @@
   },
   {
     "ProductName": "100 % Pur Jus Carotte Naturellement Bio Casino  75 cl",
-    "ProductBarcode": "EAN_13:3222476152985",
+    "ProductBarcode": "EAN_13: 3222476152985",
     "Id": 0,
     "Description": "100 % Pur Jus Carotte Naturellement Bio Casino  75 cl",
     "Price": 35.59,
@@ -3564,7 +3576,7 @@
   },
   {
     "ProductName": "Eau Minérale Sidi Harazem 12x 50 CL",
-    "ProductBarcode": "EAN_13:6111128000019",
+    "ProductBarcode": "EAN_13: 6111128000019",
     "Id": 0,
     "Description": "Eau Minérale Sidi Harazem 12x 50 CL",
     "Price": 38.23,
@@ -3575,7 +3587,7 @@
   },
   {
     "ProductName": "HELL Energy Drink 250 ml",
-    "ProductBarcode": "EAN_13:5999884034469",
+    "ProductBarcode": "EAN_13: 5999884034469",
     "Id": 0,
     "Description": "HELL Energy Drink 250 ml",
     "Price": 17.6,
@@ -3586,7 +3598,7 @@
   },
   {
     "ProductName": "Coca cola light 50CL",
-    "ProductBarcode": "EAN_13:5449000016560",
+    "ProductBarcode": "EAN_13: 5449000016560",
     "Id": 0,
     "Description": "Coca cola light 50CL",
     "Price": 5.5,
@@ -3597,7 +3609,7 @@
   },
   {
     "ProductName": "Sirop Mojito Teisseire 0% Sucre 600ml",
-    "ProductBarcode": "EAN_13:3092718628383",
+    "ProductBarcode": "EAN_13: 3092718628383",
     "Id": 0,
     "Description": "Sirop Mojito Teisseire 0% Sucre 600ml",
     "Price": 90.0,
@@ -3608,7 +3620,7 @@
   },
   {
     "ProductName": "Eau Minérale Bouteille en Verre San. Pellegrino 500 ml",
-    "ProductBarcode": "EAN_13:8002270017513",
+    "ProductBarcode": "EAN_13: 8002270017513",
     "Id": 0,
     "Description": "Eau Minérale Bouteille en Verre San. Pellegrino 500 ml",
     "Price": 9.9,
@@ -3619,7 +3631,7 @@
   },
   {
     "ProductName": "Boisson Fruit du Monde Pomme & Cerise  Tymbark  250 ml",
-    "ProductBarcode": "EAN_13:5900334000880",
+    "ProductBarcode": "EAN_13: 5900334000880",
     "Id": 0,
     "Description": "Boisson Fruit du Monde Pomme & Cerise  Tymbark  250 ml",
     "Price": 11.0,
@@ -3631,7 +3643,7 @@
   },
   {
     "ProductName": "Boisson Fruit du Monde Jus de Fruits Citron Vert Menthe Tymbark 1L",
-    "ProductBarcode": "EAN_13:5900334001375",
+    "ProductBarcode": "EAN_13: 5900334001375",
     "Id": 0,
     "Description": "Boisson Fruit du Monde Jus de Fruits Citron Vert Menthe Tymbark 1L",
     "Price": 18.5,
@@ -3643,7 +3655,7 @@
   },
   {
     "ProductName": "Fruit du Monde Jus de Fruits Cactus Tymbark 1L",
-    "ProductBarcode": "EAN_13:5900334001047",
+    "ProductBarcode": "EAN_13: 5900334001047",
     "Id": 0,
     "Description": "Fruit du Monde Jus de Fruits Cactus Tymbark 1L",
     "Price": 18.5,
@@ -3655,7 +3667,7 @@
   },
   {
     "ProductName": "Sirop de Grenadine Moulin de Valdonne   70 cl",
-    "ProductBarcode": "EAN_13:3272036007835",
+    "ProductBarcode": "EAN_13: 3272036007835",
     "Id": 0,
     "Description": "Sirop de Grenadine Moulin de Valdonne   70 cl",
     "Price": 39.55,
@@ -3666,7 +3678,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Lychee Mr. Basil  250 ml",
-    "ProductBarcode": "EAN_13:5060401973407",
+    "ProductBarcode": "EAN_13: 5060401973407",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Lychee Mr. Basil  250 ml",
     "Price": 15.6,
@@ -3677,7 +3689,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Kiwi Mr. Basil  250 ml",
-    "ProductBarcode": "EAN_13:5060401973414",
+    "ProductBarcode": "EAN_13: 5060401973414",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Kiwi Mr. Basil  250 ml",
     "Price": 15.6,
@@ -3688,7 +3700,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Grenade Mr. Basil  290 ml",
-    "ProductBarcode": "EAN_13:5060401970482",
+    "ProductBarcode": "EAN_13: 5060401970482",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Grenade Mr. Basil  290 ml",
     "Price": 21.0,
@@ -3700,7 +3712,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Kiwi Mr. Basil  290 ml",
-    "ProductBarcode": "EAN_13:5060401971977",
+    "ProductBarcode": "EAN_13: 5060401971977",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Kiwi Mr. Basil  290 ml",
     "Price": 21.0,
@@ -3712,7 +3724,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Melon Mr. Basil  290 ml",
-    "ProductBarcode": "EAN_13:5060401970826",
+    "ProductBarcode": "EAN_13: 5060401970826",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Melon Mr. Basil  290 ml",
     "Price": 21.0,
@@ -3724,7 +3736,7 @@
   },
   {
     "ProductName": "Boisson gazéifiée Ginger Ale Le Tribute  200 ml",
-    "ProductBarcode": "EAN_13:8411640010694",
+    "ProductBarcode": "EAN_13: 8411640010694",
     "Id": 0,
     "Description": "Boisson gazéifiée Ginger Ale Le Tribute  200 ml",
     "Price": 31.2,
@@ -3735,7 +3747,7 @@
   },
   {
     "ProductName": "Boisson énergisante Ultra Violet Monster 500 ml",
-    "ProductBarcode": "EAN_13:5060639122646",
+    "ProductBarcode": "EAN_13: 5060639122646",
     "Id": 0,
     "Description": "Boisson énergisante Ultra Violet Monster 500 ml",
     "Price": 32.5,
@@ -3747,7 +3759,7 @@
   },
   {
     "ProductName": "Boisson énergisante Absolutely Zero Monster 500 ml",
-    "ProductBarcode": "EAN_13:5060335631930",
+    "ProductBarcode": "EAN_13: 5060335631930",
     "Id": 0,
     "Description": "Boisson énergisante Absolutely Zero Monster 500 ml",
     "Price": 32.5,
@@ -3759,7 +3771,7 @@
   },
   {
     "ProductName": "Boisson énergisante Ultra Paradis Monster 500 ml",
-    "ProductBarcode": "EAN_13:5060639128709",
+    "ProductBarcode": "EAN_13: 5060639128709",
     "Id": 0,
     "Description": "Boisson énergisante Ultra Paradis Monster 500 ml",
     "Price": 32.5,
@@ -3771,7 +3783,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Aromatisée Citron 411 330 ml",
-    "ProductBarcode": "EAN_13:6339261998646",
+    "ProductBarcode": "EAN_13: 6339261998646",
     "Id": 0,
     "Description": "Boisson Gazeuse Aromatisée Citron 411 330 ml",
     "Price": 24.0,
@@ -3783,7 +3795,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Daiquiri Fraise Tamisol 275 ml",
-    "ProductBarcode": "EAN_13:8436015885554",
+    "ProductBarcode": "EAN_13: 8436015885554",
     "Id": 0,
     "Description": "Boisson Sans Alcool Daiquiri Fraise Tamisol 275 ml",
     "Price": 24.0,
@@ -3795,7 +3807,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Cosmopolitan Tamisol 275 ml",
-    "ProductBarcode": "EAN_13:8436015885455",
+    "ProductBarcode": "EAN_13: 8436015885455",
     "Id": 0,
     "Description": "Boisson Sans Alcool Cosmopolitan Tamisol 275 ml",
     "Price": 24.0,
@@ -3807,7 +3819,7 @@
   },
   {
     "ProductName": "Boisson Jus 100% Rafraichissante Sans Sucre Ajouté de Raisin Andros 1L",
-    "ProductBarcode": "EAN_13:3608580063919",
+    "ProductBarcode": "EAN_13: 3608580063919",
     "Id": 0,
     "Description": "Boisson Jus 100% Rafraichissante Sans Sucre Ajouté de Raisin Andros 1L",
     "Price": 57.45,
@@ -3818,7 +3830,7 @@
   },
   {
     "ProductName": "Boisson Jus 100% Rafraichissante Sans Sucre Ajouté de Pommes Pressées Andros 1L",
-    "ProductBarcode": "EAN_13:3608580951957",
+    "ProductBarcode": "EAN_13: 3608580951957",
     "Id": 0,
     "Description": "Boisson Jus 100% Rafraichissante Sans Sucre Ajouté de Pommes Pressées Andros 1L",
     "Price": 42.15,
@@ -3829,7 +3841,7 @@
   },
   {
     "ProductName": "Eau Tonique Mediterranean Eloïse Cipriani  200ml",
-    "ProductBarcode": "EAN_13:8005016380506",
+    "ProductBarcode": "EAN_13: 8005016380506",
     "Id": 0,
     "Description": "Eau Tonique Mediterranean Eloïse Cipriani  200ml",
     "Price": 19.5,
@@ -3840,7 +3852,7 @@
   },
   {
     "ProductName": "Jus de Citronnade à l'Ancienne Marrakech  1L",
-    "ProductBarcode": "EAN_13:6111242923638",
+    "ProductBarcode": "EAN_13: 6111242923638",
     "Id": 0,
     "Description": "Jus de Citronnade à l'Ancienne Marrakech  1L",
     "Price": 12.6,
@@ -3851,7 +3863,7 @@
   },
   {
     "ProductName": "Jus d'Ananas des Tropiques Marrakech 1L",
-    "ProductBarcode": "EAN_13:6111242923683",
+    "ProductBarcode": "EAN_13: 6111242923683",
     "Id": 0,
     "Description": "Jus d'Ananas des Tropiques Marrakech 1L",
     "Price": 14.95,
@@ -3862,7 +3874,7 @@
   },
   {
     "ProductName": "Jus de Pêche Don Simon 33cl",
-    "ProductBarcode": "EAN_13:8410261653600",
+    "ProductBarcode": "EAN_13: 8410261653600",
     "Id": 0,
     "Description": "Jus de Pêche Don Simon 33cl",
     "Price": 8.62,
@@ -3873,7 +3885,7 @@
   },
   {
     "ProductName": "Jus de Nectar de Pêche Valencia  1L",
-    "ProductBarcode": "EAN_13:6111251750034",
+    "ProductBarcode": "EAN_13: 6111251750034",
     "Id": 0,
     "Description": "Jus de Nectar de Pêche Valencia  1L",
     "Price": 12.59,
@@ -3884,7 +3896,7 @@
   },
   {
     "ProductName": "Jus Nectar Ananas Valencia  1L",
-    "ProductBarcode": "EAN_13:6111251751079",
+    "ProductBarcode": "EAN_13: 6111251751079",
     "Id": 0,
     "Description": "Jus Nectar Ananas Valencia  1L",
     "Price": 12.59,
@@ -3895,7 +3907,7 @@
   },
   {
     "ProductName": "Jus Nectar Piña Colada Essentiel Valencia  1L",
-    "ProductBarcode": "EAN_13:6111251751314",
+    "ProductBarcode": "EAN_13: 6111251751314",
     "Id": 0,
     "Description": "Jus Nectar Piña Colada Essentiel Valencia  1L",
     "Price": 19.8,
@@ -3906,7 +3918,7 @@
   },
   {
     "ProductName": "Jus de Citron et Gingembre Essentiel Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251751017",
+    "ProductBarcode": "EAN_13: 6111251751017",
     "Id": 0,
     "Description": "Jus de Citron et Gingembre Essentiel Valencia 1L",
     "Price": 13.75,
@@ -3917,7 +3929,7 @@
   },
   {
     "ProductName": "Nectar UHT Raisins Rouges Press'Up Jaouda  1L",
-    "ProductBarcode": "EAN_13:6111242108813",
+    "ProductBarcode": "EAN_13: 6111242108813",
     "Id": 0,
     "Description": "Nectar UHT Raisins Rouges Press'Up Jaouda  1L",
     "Price": 13.75,
@@ -3928,7 +3940,7 @@
   },
   {
     "ProductName": "Boisson Energétique Saveur de Mangue Black Energy 250 ml",
-    "ProductBarcode": "EAN_13:5900552058045",
+    "ProductBarcode": "EAN_13: 5900552058045",
     "Id": 0,
     "Description": "Boisson Energétique Saveur de Mangue Black Energy 250 ml",
     "Price": 15.0,
@@ -3939,7 +3951,7 @@
   },
   {
     "ProductName": "Boisson Energétique Classic Taste  Black Energy  250 ml",
-    "ProductBarcode": "EAN_13:5900552014713",
+    "ProductBarcode": "EAN_13: 5900552014713",
     "Id": 0,
     "Description": "Boisson Energétique Classic Taste  Black Energy  250 ml",
     "Price": 15.0,
@@ -3950,7 +3962,7 @@
   },
   {
     "ProductName": "Sprite Citron Zéro Sucre 45 cl",
-    "ProductBarcode": "EAN_13:5449000109613",
+    "ProductBarcode": "EAN_13: 5449000109613",
     "Id": 0,
     "Description": "Sprite Citron Zéro Sucre 45 cl",
     "Price": 6.0,
@@ -3961,7 +3973,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Pomme Mirinda 1L",
-    "ProductBarcode": "EAN_13:6111252420431",
+    "ProductBarcode": "EAN_13: 6111252420431",
     "Id": 0,
     "Description": "Boisson Gazeuse Pomme Mirinda 1L",
     "Price": 6.85,
@@ -3972,7 +3984,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Orange Mirinda 1L",
-    "ProductBarcode": "EAN_13:6111252420356",
+    "ProductBarcode": "EAN_13: 6111252420356",
     "Id": 0,
     "Description": "Boisson Gazeuse Orange Mirinda 1L",
     "Price": 7.85,
@@ -3983,7 +3995,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Tropical Mirinda  33 cl",
-    "ProductBarcode": "EAN_13:6111252420707",
+    "ProductBarcode": "EAN_13: 6111252420707",
     "Id": 0,
     "Description": "Boisson Gazeuse Tropical Mirinda  33 cl",
     "Price": 6.0,
@@ -3994,7 +4006,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Tropical Mirinda  50 cl",
-    "ProductBarcode": "EAN_13:6111252421896",
+    "ProductBarcode": "EAN_13: 6111252421896",
     "Id": 0,
     "Description": "Boisson Gazeuse Tropical Mirinda  50 cl",
     "Price": 6.0,
@@ -4005,7 +4017,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse  Citron Mirinda  50 cl",
-    "ProductBarcode": "EAN_13:6111252420509",
+    "ProductBarcode": "EAN_13: 6111252420509",
     "Id": 0,
     "Description": "Boisson Gazeuse  Citron Mirinda  50 cl",
     "Price": 5.0,
@@ -4016,7 +4028,7 @@
   },
   {
     "ProductName": "Thé Glacé Saveur Pêche Casino  1.5L",
-    "ProductBarcode": "EAN_13:3222477013858",
+    "ProductBarcode": "EAN_13: 3222477013858",
     "Id": 0,
     "Description": "Thé Glacé Saveur Pêche Casino  1.5L",
     "Price": 23.95,
@@ -4027,7 +4039,7 @@
   },
   {
     "ProductName": "Ice Tea Goût Grenadine Arizona  500 ml",
-    "ProductBarcode": "EAN_13:0613008730758",
+    "ProductBarcode": "EAN_13: 0613008730758",
     "Id": 0,
     "Description": "Ice Tea Goût Grenadine Arizona  500 ml",
     "Price": 29.85,
@@ -4038,7 +4050,7 @@
   },
   {
     "ProductName": "Nectar de Fruits Rouges Compal   1L",
-    "ProductBarcode": "EAN_13:5601151972212",
+    "ProductBarcode": "EAN_13: 5601151972212",
     "Id": 0,
     "Description": "Nectar de Fruits Rouges Compal   1L",
     "Price": 28.5,
@@ -4049,7 +4061,7 @@
   },
   {
     "ProductName": "Nectar de Guyave Compal  1L",
-    "ProductBarcode": "EAN_13:5601151213308",
+    "ProductBarcode": "EAN_13: 5601151213308",
     "Id": 0,
     "Description": "Nectar de Guyave Compal  1L",
     "Price": 21.85,
@@ -4060,7 +4072,7 @@
   },
   {
     "ProductName": "Nectar de Poire Compal  1L",
-    "ProductBarcode": "EAN_13:5601151543306",
+    "ProductBarcode": "EAN_13: 5601151543306",
     "Id": 0,
     "Description": "Nectar de Poire Compal  1L",
     "Price": 20.7,
@@ -4071,7 +4083,7 @@
   },
   {
     "ProductName": "Sirop de Sucre Classique DaVinci  Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:9556592816600",
+    "ProductBarcode": "EAN_13: 9556592816600",
     "Id": 0,
     "Description": "Sirop de Sucre Classique DaVinci  Gourmet 750 ml",
     "Price": 90.0,
@@ -4082,7 +4094,7 @@
   },
   {
     "ProductName": "Sirop de Citron et Citron Vert Teisseire 0% Sucre 600ml",
-    "ProductBarcode": "EAN_13:3092718638627",
+    "ProductBarcode": "EAN_13: 3092718638627",
     "Id": 0,
     "Description": "Sirop de Citron et Citron Vert Teisseire 0% Sucre 600ml",
     "Price": 90.0,
@@ -4104,7 +4116,7 @@
   },
   {
     "ProductName": "Espresso Classic Café en Boite Crémeux et Moelleux Nescafé  210 ml",
-    "ProductBarcode": "EAN_13:6917878056197",
+    "ProductBarcode": "EAN_13: 6917878056197",
     "Id": 0,
     "Description": "Espresso Classic Café en Boite Crémeux et Moelleux Nescafé  210 ml",
     "Price": 22.0,
@@ -4116,7 +4128,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Fruit Cocktail Mr. Basil  250 ml",
-    "ProductBarcode": "EAN_13:5060401973438",
+    "ProductBarcode": "EAN_13: 5060401973438",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Fruit Cocktail Mr. Basil  250 ml",
     "Price": 15.6,
@@ -4127,7 +4139,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Mangue Mr. Basil  250 ml",
-    "ProductBarcode": "EAN_13:5060401972417",
+    "ProductBarcode": "EAN_13: 5060401972417",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Mangue Mr. Basil  250 ml",
     "Price": 15.6,
@@ -4138,7 +4150,7 @@
   },
   {
     "ProductName": "Boisson aux Graines de Basilic & Raisin Noir Mr. Basil  290 ml",
-    "ProductBarcode": "EAN_13:5060401970543",
+    "ProductBarcode": "EAN_13: 5060401970543",
     "Id": 0,
     "Description": "Boisson aux Graines de Basilic & Raisin Noir Mr. Basil  290 ml",
     "Price": 21.0,
@@ -4150,7 +4162,7 @@
   },
   {
     "ProductName": "Ice Tea Pêche San Benedetto 500 ml",
-    "ProductBarcode": "EAN_13:8429359001247",
+    "ProductBarcode": "EAN_13: 8429359001247",
     "Id": 0,
     "Description": "Ice Tea Pêche San Benedetto 500 ml",
     "Price": 15.6,
@@ -4161,7 +4173,7 @@
   },
   {
     "ProductName": "Boisson énergisante Ginger Brew Monster Mule  500 ml",
-    "ProductBarcode": "EAN_13:5060751216407",
+    "ProductBarcode": "EAN_13: 5060751216407",
     "Id": 0,
     "Description": "Boisson énergisante Ginger Brew Monster Mule  500 ml",
     "Price": 32.5,
@@ -4173,7 +4185,7 @@
   },
   {
     "ProductName": "Boisson gazéifiée Tonic Water  Le Tribute  200 ml",
-    "ProductBarcode": "EAN_13:8411640010267",
+    "ProductBarcode": "EAN_13: 8411640010267",
     "Id": 0,
     "Description": "Boisson gazéifiée Tonic Water  Le Tribute  200 ml",
     "Price": 31.2,
@@ -4184,7 +4196,7 @@
   },
   {
     "ProductName": "Boisson gazéifiée Ginger Tonic Le Tribute  200 ml",
-    "ProductBarcode": "EAN_13:8411640010670",
+    "ProductBarcode": "EAN_13: 8411640010670",
     "Id": 0,
     "Description": "Boisson gazéifiée Ginger Tonic Le Tribute  200 ml",
     "Price": 31.2,
@@ -4195,7 +4207,7 @@
   },
   {
     "ProductName": "Boisson énergisante VR 46 The Doctor Monster 500 ml",
-    "ProductBarcode": "EAN_13:5060335634818",
+    "ProductBarcode": "EAN_13: 5060335634818",
     "Id": 0,
     "Description": "Boisson énergisante VR 46 The Doctor Monster 500 ml",
     "Price": 32.5,
@@ -4207,7 +4219,7 @@
   },
   {
     "ProductName": "Boisson énergisante Monster Energy 500 ml",
-    "ProductBarcode": "EAN_13:5060166692483",
+    "ProductBarcode": "EAN_13: 5060166692483",
     "Id": 0,
     "Description": "Boisson énergisante Monster Energy 500 ml",
     "Price": 32.5,
@@ -4219,7 +4231,7 @@
   },
   {
     "ProductName": "Boisson énergisante Pipeline Punch Monster 500 ml",
-    "ProductBarcode": "EAN_13:5060639128365",
+    "ProductBarcode": "EAN_13: 5060639128365",
     "Id": 0,
     "Description": "Boisson énergisante Pipeline Punch Monster 500 ml",
     "Price": 32.5,
@@ -4231,7 +4243,7 @@
   },
   {
     "ProductName": "Boisson énergisante Pacific Punch Monster 500 ml",
-    "ProductBarcode": "EAN_13:5060751214854",
+    "ProductBarcode": "EAN_13: 5060751214854",
     "Id": 0,
     "Description": "Boisson énergisante Pacific Punch Monster 500 ml",
     "Price": 32.5,
@@ -4243,7 +4255,7 @@
   },
   {
     "ProductName": "Boisson énergisante  Mango Loco Monster 500 ml",
-    "ProductBarcode": "EAN_13:5060639121823",
+    "ProductBarcode": "EAN_13: 5060639121823",
     "Id": 0,
     "Description": "Boisson énergisante  Mango Loco Monster 500 ml",
     "Price": 32.5,
@@ -4255,7 +4267,7 @@
   },
   {
     "ProductName": "Boisson Sans Alcool Style Mojito Tamisol 275 ml",
-    "ProductBarcode": "EAN_13:8436015885448",
+    "ProductBarcode": "EAN_13: 8436015885448",
     "Id": 0,
     "Description": "Boisson Sans Alcool Style Mojito Tamisol 275 ml",
     "Price": 24.0,
@@ -4267,7 +4279,7 @@
   },
   {
     "ProductName": "Boisson Lactée au Chocolat Milky Way  350 ml",
-    "ProductBarcode": "EAN_13:5060122034463",
+    "ProductBarcode": "EAN_13: 5060122034463",
     "Id": 0,
     "Description": "Boisson Lactée au Chocolat Milky Way  350 ml",
     "Price": 33.8,
@@ -4278,7 +4290,7 @@
   },
   {
     "ProductName": "100% Pur Jus de Clémentines Pressés Sans Sucre Ajouté Andros 250 ml",
-    "ProductBarcode": "EAN_13:3608580002635",
+    "ProductBarcode": "EAN_13: 3608580002635",
     "Id": 0,
     "Description": "100% Pur Jus de Clémentines Pressés Sans Sucre Ajouté Andros 250 ml",
     "Price": 17.54,
@@ -4289,7 +4301,7 @@
   },
   {
     "ProductName": "Boisson Jus  100% Rafraichissant Sans Sucre Ajouté Pamplemousses Roses Pressées Andros 1L",
-    "ProductBarcode": "EAN_13:3608580063889",
+    "ProductBarcode": "EAN_13: 3608580063889",
     "Id": 0,
     "Description": "Boisson Jus  100% Rafraichissant Sans Sucre Ajouté Pamplemousses Roses Pressées Andros 1L",
     "Price": 57.45,
@@ -4300,7 +4312,7 @@
   },
   {
     "ProductName": "Jus de Nectar Orange & Cannelle Marrakech 1L",
-    "ProductBarcode": "EAN_13:6111242923690",
+    "ProductBarcode": "EAN_13: 6111242923690",
     "Id": 0,
     "Description": "Jus de Nectar Orange & Cannelle Marrakech 1L",
     "Price": 11.44,
@@ -4311,7 +4323,7 @@
   },
   {
     "ProductName": "Jus d'orange Light Don Simon 1,5L",
-    "ProductBarcode": "EAN_13:8410261657417",
+    "ProductBarcode": "EAN_13: 8410261657417",
     "Id": 0,
     "Description": "Jus d'orange Light Don Simon 1,5L",
     "Price": 20.0,
@@ -4322,7 +4334,7 @@
   },
   {
     "ProductName": "Boisson Rafraichissante Light Citron Don Simon 1,5L",
-    "ProductBarcode": "EAN_13:8410261657424",
+    "ProductBarcode": "EAN_13: 8410261657424",
     "Id": 0,
     "Description": "Boisson Rafraichissante Light Citron Don Simon 1,5L",
     "Price": 18.4,
@@ -4333,7 +4345,7 @@
   },
   {
     "ProductName": "100% Pur Jus de Clémentines Pressés Sans Sucre Ajouté Andros 1L",
-    "ProductBarcode": "EAN_13:3045320104172",
+    "ProductBarcode": "EAN_13: 3045320104172",
     "Id": 0,
     "Description": "100% Pur Jus de Clémentines Pressés Sans Sucre Ajouté Andros 1L",
     "Price": 62.45,
@@ -4344,7 +4356,7 @@
   },
   {
     "ProductName": "Jus de Grenade Essentiel Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750195",
+    "ProductBarcode": "EAN_13: 6111251750195",
     "Id": 0,
     "Description": "Jus de Grenade Essentiel Valencia 1L",
     "Price": 22.75,
@@ -4355,7 +4367,7 @@
   },
   {
     "ProductName": "Jus Nectar Poire Essentiel Valencia  1L",
-    "ProductBarcode": "EAN_13:6111251751826",
+    "ProductBarcode": "EAN_13: 6111251751826",
     "Id": 0,
     "Description": "Jus Nectar Poire Essentiel Valencia  1L",
     "Price": 13.75,
@@ -4366,7 +4378,7 @@
   },
   {
     "ProductName": "Jus Nectar Orange Light 0% Sucre Ajouté Valencia 1L",
-    "ProductBarcode": "EAN_13:6111251750751",
+    "ProductBarcode": "EAN_13: 6111251750751",
     "Id": 0,
     "Description": "Jus Nectar Orange Light 0% Sucre Ajouté Valencia 1L",
     "Price": 14.89,
@@ -4377,7 +4389,7 @@
   },
   {
     "ProductName": "Boisson de Riz Bio Nature Natur Green 1L",
-    "ProductBarcode": "EAN_13:8437002932909",
+    "ProductBarcode": "EAN_13: 8437002932909",
     "Id": 0,
     "Description": "Boisson de Riz Bio Nature Natur Green 1L",
     "Price": 39.0,
@@ -4388,7 +4400,7 @@
   },
   {
     "ProductName": "Boisson de Riz Bio au Calcium Natur Green 1L",
-    "ProductBarcode": "EAN_13:8437002932794",
+    "ProductBarcode": "EAN_13: 8437002932794",
     "Id": 0,
     "Description": "Boisson de Riz Bio au Calcium Natur Green 1L",
     "Price": 39.0,
@@ -4399,7 +4411,7 @@
   },
   {
     "ProductName": "Boisson de Soja Bio au Calcium Natur Green 1L",
-    "ProductBarcode": "EAN_13:8437002932626",
+    "ProductBarcode": "EAN_13: 8437002932626",
     "Id": 0,
     "Description": "Boisson de Soja Bio au Calcium Natur Green 1L",
     "Price": 39.0,
@@ -4410,7 +4422,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Citron Mirinda 2L",
-    "ProductBarcode": "EAN_13:6111252420547",
+    "ProductBarcode": "EAN_13: 6111252420547",
     "Id": 0,
     "Description": "Boisson Gazeuse Citron Mirinda 2L",
     "Price": 12.5,
@@ -4421,7 +4433,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse Citron Mirinda 1L",
-    "ProductBarcode": "EAN_13:6111252420516",
+    "ProductBarcode": "EAN_13: 6111252420516",
     "Id": 0,
     "Description": "Boisson Gazeuse Citron Mirinda 1L",
     "Price": 6.85,
@@ -4432,7 +4444,7 @@
   },
   {
     "ProductName": "7 Up  50 cl",
-    "ProductBarcode": "EAN_13:6111252420219",
+    "ProductBarcode": "EAN_13: 6111252420219",
     "Id": 0,
     "Description": "7 Up  50 cl",
     "Price": 5.1,
@@ -4443,7 +4455,7 @@
   },
   {
     "ProductName": "7 Up Canette 33cl",
-    "ProductBarcode": "EAN_13:6111252420301",
+    "ProductBarcode": "EAN_13: 6111252420301",
     "Id": 0,
     "Description": "7 Up Canette 33cl",
     "Price": 5.75,
@@ -4454,7 +4466,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse  Citron Mirinda  33 cl",
-    "ProductBarcode": "EAN_13:6111252420561",
+    "ProductBarcode": "EAN_13: 6111252420561",
     "Id": 0,
     "Description": "Boisson Gazeuse  Citron Mirinda  33 cl",
     "Price": 5.3,
@@ -4465,7 +4477,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse  Pomme Mirinda 33 cl",
-    "ProductBarcode": "EAN_13:6111252420486",
+    "ProductBarcode": "EAN_13: 6111252420486",
     "Id": 0,
     "Description": "Boisson Gazeuse  Pomme Mirinda 33 cl",
     "Price": 5.0,
@@ -4476,7 +4488,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse  Pomme Mirinda  50 cl",
-    "ProductBarcode": "EAN_13:6111252420424",
+    "ProductBarcode": "EAN_13: 6111252420424",
     "Id": 0,
     "Description": "Boisson Gazeuse  Pomme Mirinda  50 cl",
     "Price": 5.0,
@@ -4487,7 +4499,7 @@
   },
   {
     "ProductName": "Boisson Gazeuse  Orange Mirinda  50 cl",
-    "ProductBarcode": "EAN_13:6111252420349",
+    "ProductBarcode": "EAN_13: 6111252420349",
     "Id": 0,
     "Description": "Boisson Gazeuse  Orange Mirinda  50 cl",
     "Price": 5.0,
@@ -4498,7 +4510,7 @@
   },
   {
     "ProductName": "Thé Glacé Zéro Saveur Pêche Casino  1.5L",
-    "ProductBarcode": "EAN_13:3222477013957",
+    "ProductBarcode": "EAN_13: 3222477013957",
     "Id": 0,
     "Description": "Thé Glacé Zéro Saveur Pêche Casino  1.5L",
     "Price": 18.35,
@@ -4509,7 +4521,7 @@
   },
   {
     "ProductName": "Café Frappé Double Shot Espresso & Cream  Starbucks 200 ml",
-    "ProductBarcode": "EAN_13:5711953005305",
+    "ProductBarcode": "EAN_13: 5711953005305",
     "Id": 0,
     "Description": "Café Frappé Double Shot Espresso & Cream  Starbucks 200 ml",
     "Price": 28.7,
@@ -4520,7 +4532,7 @@
   },
   {
     "ProductName": "Café Frappé Double Shot Espresso & Cream Réduit en Sucres Starbucks  200 ml",
-    "ProductBarcode": "EAN_13:5711953079580",
+    "ProductBarcode": "EAN_13: 5711953079580",
     "Id": 0,
     "Description": "Café Frappé Double Shot Espresso & Cream Réduit en Sucres Starbucks  200 ml",
     "Price": 28.7,
@@ -4531,7 +4543,7 @@
   },
   {
     "ProductName": "Ice Tea Blanc Goût Myrtilles  Arizona  500 ml",
-    "ProductBarcode": "EAN_13:0613008730772",
+    "ProductBarcode": "EAN_13: 0613008730772",
     "Id": 0,
     "Description": "Ice Tea Blanc Goût Myrtilles  Arizona  500 ml",
     "Price": 29.85,
@@ -4542,7 +4554,7 @@
   },
   {
     "ProductName": "Ice Tea Miel et Ginseng Arizona  500 ml",
-    "ProductBarcode": "EAN_13:0613008730734",
+    "ProductBarcode": "EAN_13: 0613008730734",
     "Id": 0,
     "Description": "Ice Tea Miel et Ginseng Arizona  500 ml",
     "Price": 29.85,
@@ -4553,7 +4565,7 @@
   },
   {
     "ProductName": "Ice Tea au Citron Arizona 330 ml",
-    "ProductBarcode": "EAN_13:0613008756277",
+    "ProductBarcode": "EAN_13: 0613008756277",
     "Id": 0,
     "Description": "Ice Tea au Citron Arizona 330 ml",
     "Price": 19.08,
@@ -4564,7 +4576,7 @@
   },
   {
     "ProductName": "Sirop  d'Orange Amère DaVinci Gourmet 750 ml",
-    "ProductBarcode": "EAN_13:9556592710120",
+    "ProductBarcode": "EAN_13: 9556592710120",
     "Id": 0,
     "Description": "Sirop  d'Orange Amère DaVinci Gourmet 750 ml",
     "Price": 141.0,
@@ -4575,7 +4587,7 @@
   },
   {
     "ProductName": "Nectar Canette Mangue COMPAL 330ml",
-    "ProductBarcode": "EAN_13:5601151975602",
+    "ProductBarcode": "EAN_13: 5601151975602",
     "Id": 0,
     "Description": "Nectar Canette Mangue COMPAL 330ml",
     "Price": 7.51,
@@ -4586,7 +4598,7 @@
   },
   {
     "ProductName": "Mix Fruit Nectar Queens 250Ml",
-    "ProductBarcode": "EAN_13:6772504390256",
+    "ProductBarcode": "EAN_13: 6772504390256",
     "Id": 0,
     "Description": "Mix Fruit Nectar Queens 250Ml",
     "Price": 17.0,
@@ -4597,7 +4609,7 @@
   },
   {
     "ProductName": "Orange Cofrutos  200Ml",
-    "ProductBarcode": "EAN_13:8410280251016",
+    "ProductBarcode": "EAN_13: 8410280251016",
     "Id": 0,
     "Description": "Orange Cofrutos  200Ml",
     "Price": 17.0,
@@ -4608,7 +4620,7 @@
   },
   {
     "ProductName": "Liegois Choco Omira Milch 200G",
-    "ProductBarcode": "EAN_13:4036500008426",
+    "ProductBarcode": "EAN_13: 4036500008426",
     "Id": 0,
     "Description": "Liegois Choco Omira Milch 200G",
     "Price": 6.6,
@@ -4619,7 +4631,7 @@
   },
   {
     "ProductName": "Boisson d'Avoine Nature Sans Glutten EcoMill 1L",
-    "ProductBarcode": "EAN_13:8428532192529",
+    "ProductBarcode": "EAN_13: 8428532192529",
     "Id": 0,
     "Description": "Boisson d'Avoine Nature Sans Glutten EcoMill 1L",
     "Price": 54.0,
@@ -4630,7 +4642,7 @@
   },
   {
     "ProductName": "Eau Plate Pure Evian Verre 33 cL",
-    "ProductBarcode": "EAN_13:3068320019314",
+    "ProductBarcode": "EAN_13: 3068320019314",
     "Id": 0,
     "Description": "Eau Plate Pure Evian Verre 33 cL",
     "Price": 22.08,
@@ -4641,7 +4653,7 @@
   },
    {
     "ProductName": "Eau Minérale Naturelle Sidi Ali 6x1.5 L",
-    "ProductBarcode": "EAN_13:6111035000065",
+    "ProductBarcode": "EAN_13: 6111035000065",
     "Id": 0,
     "Description": "Eau Minérale Naturelle Sidi Ali 6x1.5 L",
     "Price": 33.0,
@@ -4668,15 +4680,6 @@
     "Price": 2,
     "URLimage": [],
     "id": 421
-  },
-  {
-    "ProductName": "Cappy pulpy",
-    "ProductBarcode": "EAN_13: 54490002038230",
-    "Id": 0,
-    "Description": "pêche 1L",
-    "Price": 12,
-    "URLimage": [],
-    "id": 422
   }
   ]
 }
