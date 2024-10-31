@@ -65918,6 +65918,24 @@
     "Price": 2,
     "URLimage": [],
     "id": 5961
+  },
+  {
+    "ProductName": "Pringles",
+    "ProductBarcode": "EAN_13: 5053990161669",
+    "Id": 0,
+    "Description": "paprika 125g\nPommes de terre déshydratées, huile végétale (maïs, coton, soja et/ou tournesol), farine de maïs, amidon de maïs, farine de riz, maltodextrine, émulsifiant (E471), sel, paprika, arôme de fumée, colorant (extrait de paprika), arômes, levure en poudre, dextrose, sucre, oignon en poudre, exhausteurs de goût (glutamate monosodique, inosinate disodique, guanylate disodique).Note sur les allergènes : ils sont indiqués en gras dans les ingrédients.",
+    "Price": 22,
+    "URLimage": ["https://i0.wp.com/www.sqata.ma/wp-content/uploads/2024/05/PRINGLES-PAPRIKA-min.png?fit=800%2C800&ssl=1"],
+    "id": 5963
+  },
+  {
+    "ProductName": "Pringles Cheese & Onion 165G",
+    "ProductBarcode": "EAN_13: 5053990127641",
+    "Id": 0,
+    "Description": "Pommes de terre déshydratées, huile végétale (maïs, coton, soja et/ou tournesol), farine de maïs, amidon de maïs, farine de riz, maltodextrine, émulsifiant (E471), sel, lactosérum en poudre (de lait), fromage en poudre, arômes, oignon en poudre, exhausteurs de goût (glutamate monosodique, inosinate disodique, guanylate disodique), colorant (extrait de paprika), acide citrique, acide lactique, lécithine de soja.Note sur les allergènes : ils sont indiqués en gras dans les ingrédients.",
+    "Price": 22,
+    "URLimage": ["https://i0.wp.com/www.sqata.ma/wp-content/uploads/2024/05/PRINGLES-CHEESE-ONION-min.png?fit=800%2C800&ssl=1"],
+    "id": 5964
   }
   ]
 }
