@@ -41556,15 +41556,16 @@
     ],
     "id": 3755
   },
-  {
-    "ProductName": "Lait de Croissance  Jaouda 500 ml",
+   {
+    "ProductName": "Lait de croissance UHT 500ml - JAOUDA",
     "ProductBarcode": "EAN_13: 6111242103528",
     "Id": 0,
-    "Description": "Lait de Croissance  Jaouda 500 ml",
-    "Price": "8.05",
-    "URLimage": [
-      "https://www.mymarket.ma/cdn/shop/products/076667528ad8266a938535a063ea1f3f.png?v=1658833841&amp;width=375"
-    ],
+    "Description": "Lait UHT entier. Valeur énergétique : 65 kcal/100ml. Volume : 500 ml. Lait pour enfants entre 10 mois et 3 ans . Riche en vitamines , fer, calcium et sans gluten. Avant ouverture, à conserver dans un endroit frais et sec. À conserver au frais et à consommer dans les 48 heures après ouverture.",
+    "Price": 7,
+    "URLimage": ["https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_1.webp",
+                  "https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_2.webp",
+                  "https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_3.webp",
+                  "https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_4.webp"],
     "id": 3756
   },
   {
@@ -65936,18 +65937,6 @@
     "Price": 22,
     "URLimage": ["https://i0.wp.com/www.sqata.ma/wp-content/uploads/2024/05/PRINGLES-CHEESE-ONION-min.png?fit=800%2C800&ssl=1"],
     "id": 5964
-  },
-  {
-    "ProductName": "Lait de croissance UHT 500ml - JAOUDA",
-    "ProductBarcode": "EAN_13: 6111242103528",
-    "Id": 0,
-    "Description": "Lait UHT entier. Valeur énergétique : 65 kcal/100ml. Volume : 500 ml. Lait pour enfants entre 10 mois et 3 ans . Riche en vitamines , fer, calcium et sans gluten. Avant ouverture, à conserver dans un endroit frais et sec. À conserver au frais et à consommer dans les 48 heures après ouverture.",
-    "Price": 7,
-    "URLimage": ["https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_1.webp",
-                  "https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_2.webp",
-                  "https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_3.webp",
-                  "https://res.cloudinary.com/dcphm6bor/image/upload/q_75,f_auto,w_640/v1583089597/marjane_assets/april_prod_reduced/756952_4.webp"],
-    "id": 5965
   }
   ]
 }
