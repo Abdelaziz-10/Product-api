@@ -27,15 +27,12 @@
       "id": 2
     },
     {
-      "ProductName": "Product C",
-      "ProductBarcode": "567890123",
-      "Id": 3,
-      "Description": "Description for Product C",
-      "Price": 39.99,
-      "URLimage": [
-        "https://example.com/productC_image1.jpg",
-        "https://example.com/productC_image2.jpg"
-      ],
+      "ProductName": "Pringles Cheese & Onion 165G",
+      "ProductBarcode": "EAN_13: 5053990127641",
+      "Id": 0,
+      "Description": "Pommes de terre déshydratées, huile végétale (maïs, coton, soja et/ou tournesol), farine de maïs, amidon de maïs, farine de riz, maltodextrine, émulsifiant (E471), sel, lactosérum en poudre (de lait), fromage en poudre, arômes, oignon en poudre, exhausteurs de goût (glutamate monosodique, inosinate disodique, guanylate disodique), colorant (extrait de paprika), acide citrique, acide lactique, lécithine de soja.Note sur les allergènes : ils sont indiqués en gras dans les ingrédients.",
+      "Price": 22,
+      "URLimage": ["https://i0.wp.com/www.sqata.ma/wp-content/uploads/2024/05/PRINGLES-CHEESE-ONION-min.png?fit=800%2C800&ssl=1"],
       "id": 3
     },
     {
@@ -65928,15 +65925,6 @@
     "Price": 22,
     "URLimage": ["https://i0.wp.com/www.sqata.ma/wp-content/uploads/2024/05/PRINGLES-PAPRIKA-min.png?fit=800%2C800&ssl=1"],
     "id": 5963
-  },
-  {
-    "ProductName": "Pringles Cheese & Onion 165G",
-    "ProductBarcode": "EAN_13: 5053990127641",
-    "Id": 0,
-    "Description": "Pommes de terre déshydratées, huile végétale (maïs, coton, soja et/ou tournesol), farine de maïs, amidon de maïs, farine de riz, maltodextrine, émulsifiant (E471), sel, lactosérum en poudre (de lait), fromage en poudre, arômes, oignon en poudre, exhausteurs de goût (glutamate monosodique, inosinate disodique, guanylate disodique), colorant (extrait de paprika), acide citrique, acide lactique, lécithine de soja.Note sur les allergènes : ils sont indiqués en gras dans les ingrédients.",
-    "Price": 22,
-    "URLimage": ["https://i0.wp.com/www.sqata.ma/wp-content/uploads/2024/05/PRINGLES-CHEESE-ONION-min.png?fit=800%2C800&ssl=1"],
-    "id": 5964
   }
   ]
 }
